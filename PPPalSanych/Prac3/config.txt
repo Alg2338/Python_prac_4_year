@@ -1,0 +1,5 @@
+[config]
+v = 100
+t_st = 5
+t_tr = 0.01
+transfer_time_file = transfers_time.txt

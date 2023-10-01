@@ -1,0 +1,72 @@
+\documentclass[12pt, a4paper]{article}
+\usepackage{amsthm,amsfonts,amsmath,amssymb,amscd}
+\usepackage[T2A]{fontenc}                         
+\usepackage[utf8]{inputenc}                      
+\usepackage[english, russian]{babel}
+\usepackage{graphicx}
+\usepackage{cite} 
+\usepackage{psfrag}
+\usepackage{enumitem}	
+\usepackage{float}
+\usepackage{subcaption}
+%\usepackage[unicode, pdftex]{hyperref}	
+\usepackage{setspace}
+%\usepackage{vmargin}
+\sloppy
+\usepackage{indentfirst} % Красная строка
+\uchyph=0 % Запрет переноса слова с прописной буквы
+\graphicspath{{eps/}}
+
+\IfFileExists{pscyr.sty}{\usepackage{pscyr}}{}    %
+
+\usepackage[top=2cm, bottom=2cm, left=2.5cm, right=1cm]{geometry}
+
+\linespread{1.3} 
+
+
+\begin{document}
+\begin{titlepage}
+\begin{center}
+\includegraphics[width=8cm, height=4cm]{msu.eps}
+\end{center}
+\begin{center}
+Московский государственный университет имени М.В. Ломоносова\\
+\vspace{0.1 cm}
+Факультет вычислительной математики и кибернетики\\
+\vspace{0.1 cm}
+Кафедра cистемного анализа
+
+\vspace{3cm}
+{\Large Нервный Игорь Иосифович }\\
+\vspace{1cm}
+
+{\bf\LARGE Задача оптимального управления студентами}\\ \vspace{2cm}
+ВЫПУСКНАЯ КВАЛИФИКАЦИОННАЯ РАБОТА
+
+\end{center}
+\vspace{2cm}
+\begin{flushright}
+
+{\bf Научный руководитель:}\\
+д.ф.-м.н., профессор\\ 
+П.\,П. Опытный
+
+\end{flushright}
+
+ \vspace{4.5cm}
+
+\centerline {Москва, 2023}
+
+\end{titlepage}
+
+
+\newpage
+\begin{thebibliography}{99}
+\addcontentsline{toc}{section}{\bibname}
+\bibitem{KV} \textit{Kurzhanski~A.\,B., Varaiya~P.} 
+Dynamics and control of trajectory tubes. Theory and computation.  Birkh{\"a}user,~2014.
+\bibitem{CFSW} \textit{Coronel~P., Furrer~S., Schott~W., Weiss~B.}
+ Indoor location tracking using inertial navigation sensors and radio beacons.~\hbox{/\hspace{-0.2em}/}~ Proc. of the 1st international conference on The internet of things, pp.~325--340.
+\bibitem{M}\textit{Маянцев~К.\,С.} Аппроксимация множеств достижимости гибридных систем с линейной структурой и дискретным временем. Курсовая работа. Кафедра системного анализа факультета ВМК МГУ, 2013~г. 
+\end{thebibliography}
+\end{document} 

@@ -1,0 +1,9 @@
+Kakhovskaya, 11; Nakhimovsky Prospekt, 9
+Vorontsovskaya, 11; Novye Cheryomushki, 6
+Prospekt Vernadskogo, 11; Universitet, 1
+Michurinsky Prospekt, 11; Solntsevo, 8A
+Khoroshyovskaya, 11; Oktyabrskoye Pole, 7
+Petrovsky Park, 11; Sokol, 2
+CSKA, 11; Mayakovskaya, 2
+Davydkovo, 11; Smolenskaya, 3
+Zyuzino, 11; Sukharevskaya, 6

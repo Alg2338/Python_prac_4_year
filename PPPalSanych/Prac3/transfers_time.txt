@@ -1,0 +1,26 @@
+Timiryazevskaya, 9; Timiryazevskaya, 13; 360
+Ulitsa Milashenkova, 13; Fonvizinskaya, 10; 150
+Vystavochny Tsentr, 13; VDNKh, 6; 390
+Okruzhnaya, 10; Okruzhnaya, 14; 720
+Vladykino, 14; Vladykino, 7; 270
+Botanichesky Sad, 14; Botanichesky Sad, 6; 285
+Bulvar Rokossovskogo, 14; Bulvar Rokossovskogo, 1; 470
+Lokomotiv, 14; Cherkizovskaya, 1; 240
+Izmaylovo, 14; Partizanskaya, 3; 540
+Shosse Entuziastov, 14; Shosse Entuziastov, 8; 600
+Nizhegorodskaya, 14; Nizhegorodskaya, 15; 360
+Nizhegorodskaya, 14; Nizhegorodskaya, 11; 360
+Ugreshskaya, 14; Volgogradsky Prospekt, 7; 900
+Dubrovka, 14; Dubrovka, 10; 900
+Dubrovka, 14; Kozhukhovskaya, 10; 840
+Avtozavodskaya, 14; Avtozavodskaya, 2; 510
+Verkhniye Kotly, 14; Nagatinskaya, 9; 780
+Ploshchad Gagarina, 14; Leninsky Prospekt, 6; 240
+Luzhniki, 14; Sportivnaya, 1; 360
+Kutuzovskaya, 14; Kutuzovskaya, 4; 180
+Khoroshyovo, 14; Khoroshyovskaya, 11; 900
+Khoroshyovo, 14; Polezhayevskaya, 7; 900
+Zorge, 14; Oktyabrskoye Pole, 7; 540
+Panfilovskaya, 14; Oktyabrskoye Pole, 7; 780
+Streshnevo, 14; Voykovskaya, 2; 960
+Baltiyskaya, 14; Voykovskaya, 2; 840

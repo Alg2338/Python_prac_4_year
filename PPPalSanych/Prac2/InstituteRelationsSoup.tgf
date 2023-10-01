@@ -1,0 +1,1503 @@
+1 Haverford College
+2 University of Pennsylvania
+3 University of California, Berkeley
+4 University of Chicago
+5 Los Alamos National Laboratory
+6 Cornell University
+7 Los Alamos Laboratory
+8 Harvard University
+9 Enrico Fermi Institute
+10 Princeton University
+11 State University of New York at Stony Brook
+12 University of Tübingen
+13 University of Bristol
+14 University of Manchester
+15 St. Petersburg Nuclear Physics Institute (page does not exist)
+16 National Institutes of Health
+17 Manhattan Project
+18 Clinton Engineering Works
+19 Oak Ridge National Laboratory
+20 Brookhaven National Laboratory
+21 University of Utah
+22 New York University
+23 State University of New York
+24 Leiden University
+25 University of Minnesota
+26 University of Wisconsin
+27 Yale University
+28 Stony Brook University
+29 Hampton University
+30 University of Washington Bothell
+31 Massachusetts Institute of Technology
+32 Atomic Energy Research Establishment
+33 University of Waterloo
+34 Washington University in St. Louis
+35 RAND corporation
+36 Lawrence Livermore National Laboratory
+37 New Mexico Institute of Mining and Technology
+38 University of Washington
+39 University of Colorado Boulder
+40 University of Paris
+41 Royal Air Force
+42 Institute for Advanced Study
+43 University of Birmingham
+44 University of Oregon
+45 University of Nevada, Las Vegas
+46 Scuola Normale Superiore di Pisa
+47 Pisa
+48 University of Göttingen
+49 University of Florence
+50 Sapienza University of Rome
+51 Columbia University
+52 Carnegie Mellon University
+53 University of Illinois at Urbana-Champaign
+54 United States Department of Energy
+55 National Nuclear Security Administration
+56 University of Rochester
+57 Niels Bohr Institute
+58 Cavendish Laboratory
+59 George Washington University
+60 Sarah Lawrence College
+61 Argonne National Laboratory
+62 University of California, San Diego
+63 IBM
+64 University of Illinois
+65 University of Texas
+66 Metallurgical Laboratory
+67 National Institute of Standards and Technology
+68 University of Tennessee
+69 Naval Research Laboratory
+70 United States Weather Bureau
+71 Stanford University
+72 Hanford Engineer Works
+73 University of Munich
+74 Johns Hopkins University
+75 The Catholic University of America
+76 NASA
+77 NOAA
+78 NCAR
+79 National Defense Research Committee
+80 Colgate University
+81 SRI International
+82 University of Wisconsin-Madison
+83 GSI Helmholtz Centre for Heavy Ion Research
+84 California Institute of Technology
+85 Ames Research Center
+86 University of Vienna
+87 University of Texas at Austin
+88 Duke University
+89 TUNL
+90 MIT
+91 McGill University
+92 Lawrence Berkeley National Laboratory
+93 Harvard Society of Fellows
+94 Thomas Jefferson National Accelerator Facility
+95 Rutgers University
+96 Indiana University Bloomington
+97 United States Naval Research Laboratory
+98 Navy Electronics Laboratory
+99 Kurchatov Institute
+100 Landau Institute of Theoretical Physics
+101 University of Minnesota, Minneapolis
+102 Radio Research Laboratory (Harvard)
+103 Collins Radio Company
+104 University of California, Los Angeles
+105 University of Wisconsin–Madison
+106 Fermilab
+107 Texas A&M University
+108 Nordic Institute for Theoretical Physics
+109 University of Michigan
+110 Scripps Institution of Oceanography
+111 SLAC
+112 Arcetri Observatory
+113 University of California Radiation Laboratory
+114 University of Colorado
+115 Brooklyn College
+116 DARPA
+117 IARPA
+118 Teledyne Technologies
+119 In-Q-Tel
+120 North Dakota Agricultural College
+121 DePaul University
+122 San Francisco State University
+#
+1 2 Fay Ajzenberg-Selove
+
+2 1 Fay Ajzenberg-Selove
+
+3 4 Samuel King Allison
+
+3 5 Samuel King Allison
+
+4 3 Samuel King Allison
+
+4 5 Samuel King Allison
+
+5 3 Samuel King Allison
+
+5 4 Samuel King Allison
+
+6 7 Robert Bacher
+
+7 6 Robert Bacher
+
+9 10 Nándor Balázs
+
+9 11 Nándor Balázs
+
+10 9 Nándor Balázs
+
+10 11 Nándor Balázs
+
+11 9 Nándor Balázs
+
+11 10 Nándor Balázs
+
+12 6 Hans Bethe
+
+12 13 Hans Bethe
+
+12 14 Hans Bethe
+
+6 12 Hans Bethe
+
+6 13 Hans Bethe
+
+6 14 Hans Bethe
+
+13 12 Hans Bethe
+
+13 6 Hans Bethe
+
+13 14 Hans Bethe
+
+14 12 Hans Bethe
+
+14 6 Hans Bethe
+
+14 13 Hans Bethe
+
+15 16 Sergey Bezrukov (biophysicist)
+
+16 15 Sergey Bezrukov (biophysicist)
+
+17 18 Lyle Benjamin Borst
+
+17 19 Lyle Benjamin Borst
+
+17 20 Lyle Benjamin Borst
+
+17 21 Lyle Benjamin Borst
+
+17 22 Lyle Benjamin Borst
+
+17 23 Lyle Benjamin Borst
+
+18 17 Lyle Benjamin Borst
+
+18 19 Lyle Benjamin Borst
+
+18 20 Lyle Benjamin Borst
+
+18 21 Lyle Benjamin Borst
+
+18 22 Lyle Benjamin Borst
+
+18 23 Lyle Benjamin Borst
+
+19 17 Lyle Benjamin Borst
+
+19 18 Lyle Benjamin Borst
+
+19 20 Lyle Benjamin Borst
+
+19 21 Lyle Benjamin Borst
+
+19 22 Lyle Benjamin Borst
+
+19 23 Lyle Benjamin Borst
+
+20 17 Lyle Benjamin Borst
+
+20 18 Lyle Benjamin Borst
+
+20 19 Lyle Benjamin Borst
+
+20 21 Lyle Benjamin Borst
+
+20 22 Lyle Benjamin Borst
+
+20 23 Lyle Benjamin Borst
+
+21 17 Lyle Benjamin Borst
+
+21 18 Lyle Benjamin Borst
+
+21 19 Lyle Benjamin Borst
+
+21 20 Lyle Benjamin Borst
+
+21 22 Lyle Benjamin Borst
+
+21 23 Lyle Benjamin Borst
+
+22 17 Lyle Benjamin Borst
+
+22 18 Lyle Benjamin Borst
+
+22 19 Lyle Benjamin Borst
+
+22 20 Lyle Benjamin Borst
+
+22 21 Lyle Benjamin Borst
+
+22 23 Lyle Benjamin Borst
+
+23 17 Lyle Benjamin Borst
+
+23 18 Lyle Benjamin Borst
+
+23 19 Lyle Benjamin Borst
+
+23 20 Lyle Benjamin Borst
+
+23 21 Lyle Benjamin Borst
+
+23 22 Lyle Benjamin Borst
+
+24 25 Gregory Breit
+
+24 22 Gregory Breit
+
+24 26 Gregory Breit
+
+24 27 Gregory Breit
+
+25 24 Gregory Breit
+
+25 22 Gregory Breit
+
+25 26 Gregory Breit
+
+25 27 Gregory Breit
+
+22 24 Gregory Breit
+
+22 25 Gregory Breit
+
+22 26 Gregory Breit
+
+22 27 Gregory Breit
+
+26 24 Gregory Breit
+
+26 25 Gregory Breit
+
+26 22 Gregory Breit
+
+26 27 Gregory Breit
+
+27 24 Gregory Breit
+
+27 25 Gregory Breit
+
+27 22 Gregory Breit
+
+27 26 Gregory Breit
+
+28 29 Warren Buck
+
+28 30 Warren Buck
+
+29 28 Warren Buck
+
+29 30 Warren Buck
+
+30 28 Warren Buck
+
+30 29 Warren Buck
+
+31 8 Sow-Hsin Chen
+
+31 32 Sow-Hsin Chen
+
+31 33 Sow-Hsin Chen
+
+8 31 Sow-Hsin Chen
+
+8 32 Sow-Hsin Chen
+
+8 33 Sow-Hsin Chen
+
+32 31 Sow-Hsin Chen
+
+32 8 Sow-Hsin Chen
+
+32 33 Sow-Hsin Chen
+
+33 31 Sow-Hsin Chen
+
+33 8 Sow-Hsin Chen
+
+33 32 Sow-Hsin Chen
+
+36 5 Stirling Colgate
+
+36 37 Stirling Colgate
+
+5 36 Stirling Colgate
+
+5 37 Stirling Colgate
+
+37 36 Stirling Colgate
+
+37 5 Stirling Colgate
+
+39 40 William Duane (physicist)
+
+39 8 William Duane (physicist)
+
+40 39 William Duane (physicist)
+
+40 8 William Duane (physicist)
+
+8 39 William Duane (physicist)
+
+8 40 William Duane (physicist)
+
+41 42 Freeman Dyson
+
+41 43 Freeman Dyson
+
+41 6 Freeman Dyson
+
+42 41 Freeman Dyson
+
+42 43 Freeman Dyson
+
+42 6 Freeman Dyson
+
+43 41 Freeman Dyson
+
+43 42 Freeman Dyson
+
+43 6 Freeman Dyson
+
+6 41 Freeman Dyson
+
+6 42 Freeman Dyson
+
+6 43 Freeman Dyson
+
+44 45 John W. Farley
+
+45 44 John W. Farley
+
+42 22 Eugene Feenberg
+
+42 34 Eugene Feenberg
+
+22 42 Eugene Feenberg
+
+22 34 Eugene Feenberg
+
+34 42 Eugene Feenberg
+
+34 22 Eugene Feenberg
+
+46 47 Enrico Fermi
+
+46 48 Enrico Fermi
+
+46 24 Enrico Fermi
+
+46 49 Enrico Fermi
+
+46 50 Enrico Fermi
+
+46 51 Enrico Fermi
+
+46 4 Enrico Fermi
+
+47 46 Enrico Fermi
+
+47 48 Enrico Fermi
+
+47 24 Enrico Fermi
+
+47 49 Enrico Fermi
+
+47 50 Enrico Fermi
+
+47 51 Enrico Fermi
+
+47 4 Enrico Fermi
+
+48 46 Enrico Fermi
+
+48 47 Enrico Fermi
+
+48 24 Enrico Fermi
+
+48 49 Enrico Fermi
+
+48 50 Enrico Fermi
+
+48 51 Enrico Fermi
+
+48 4 Enrico Fermi
+
+24 46 Enrico Fermi
+
+24 47 Enrico Fermi
+
+24 48 Enrico Fermi
+
+24 49 Enrico Fermi
+
+24 50 Enrico Fermi
+
+24 51 Enrico Fermi
+
+24 4 Enrico Fermi
+
+49 46 Enrico Fermi
+
+49 47 Enrico Fermi
+
+49 48 Enrico Fermi
+
+49 24 Enrico Fermi
+
+49 50 Enrico Fermi
+
+49 51 Enrico Fermi
+
+49 4 Enrico Fermi
+
+50 46 Enrico Fermi
+
+50 47 Enrico Fermi
+
+50 48 Enrico Fermi
+
+50 24 Enrico Fermi
+
+50 49 Enrico Fermi
+
+50 51 Enrico Fermi
+
+50 4 Enrico Fermi
+
+51 46 Enrico Fermi
+
+51 47 Enrico Fermi
+
+51 48 Enrico Fermi
+
+51 24 Enrico Fermi
+
+51 49 Enrico Fermi
+
+51 50 Enrico Fermi
+
+51 4 Enrico Fermi
+
+4 46 Enrico Fermi
+
+4 47 Enrico Fermi
+
+4 48 Enrico Fermi
+
+4 24 Enrico Fermi
+
+4 49 Enrico Fermi
+
+4 50 Enrico Fermi
+
+4 51 Enrico Fermi
+
+17 10 Val Logsdon Fitch
+
+10 17 Val Logsdon Fitch
+
+5 53 Hans Frauenfelder
+
+53 5 Hans Frauenfelder
+
+54 55 Njema Frazier
+
+55 54 Njema Frazier
+
+17 31 Francis Lee Friedman
+
+31 17 Francis Lee Friedman
+
+48 57 George Gamow
+
+48 58 George Gamow
+
+48 59 George Gamow
+
+48 3 George Gamow
+
+48 39 George Gamow
+
+57 48 George Gamow
+
+57 58 George Gamow
+
+57 59 George Gamow
+
+57 3 George Gamow
+
+57 39 George Gamow
+
+58 48 George Gamow
+
+58 57 George Gamow
+
+58 59 George Gamow
+
+58 3 George Gamow
+
+58 39 George Gamow
+
+59 48 George Gamow
+
+59 57 George Gamow
+
+59 58 George Gamow
+
+59 3 George Gamow
+
+59 39 George Gamow
+
+3 48 George Gamow
+
+3 57 George Gamow
+
+3 58 George Gamow
+
+3 59 George Gamow
+
+3 39 George Gamow
+
+39 48 George Gamow
+
+39 57 George Gamow
+
+39 58 George Gamow
+
+39 59 George Gamow
+
+39 3 George Gamow
+
+4 51 Richard Garwin
+
+4 6 Richard Garwin
+
+4 8 Richard Garwin
+
+51 4 Richard Garwin
+
+51 6 Richard Garwin
+
+51 8 Richard Garwin
+
+6 4 Richard Garwin
+
+6 51 Richard Garwin
+
+6 8 Richard Garwin
+
+8 4 Richard Garwin
+
+8 51 Richard Garwin
+
+8 6 Richard Garwin
+
+60 51 Maria Goeppert Mayer
+
+60 7 Maria Goeppert Mayer
+
+60 61 Maria Goeppert Mayer
+
+60 62 Maria Goeppert Mayer
+
+60 4 Maria Goeppert Mayer
+
+51 60 Maria Goeppert Mayer
+
+51 7 Maria Goeppert Mayer
+
+51 61 Maria Goeppert Mayer
+
+51 62 Maria Goeppert Mayer
+
+51 4 Maria Goeppert Mayer
+
+7 60 Maria Goeppert Mayer
+
+7 51 Maria Goeppert Mayer
+
+7 61 Maria Goeppert Mayer
+
+7 62 Maria Goeppert Mayer
+
+7 4 Maria Goeppert Mayer
+
+61 60 Maria Goeppert Mayer
+
+61 51 Maria Goeppert Mayer
+
+61 7 Maria Goeppert Mayer
+
+61 62 Maria Goeppert Mayer
+
+61 4 Maria Goeppert Mayer
+
+62 60 Maria Goeppert Mayer
+
+62 51 Maria Goeppert Mayer
+
+62 7 Maria Goeppert Mayer
+
+62 61 Maria Goeppert Mayer
+
+62 4 Maria Goeppert Mayer
+
+4 60 Maria Goeppert Mayer
+
+4 51 Maria Goeppert Mayer
+
+4 7 Maria Goeppert Mayer
+
+4 61 Maria Goeppert Mayer
+
+4 62 Maria Goeppert Mayer
+
+22 63 Gerald Goertzel
+
+63 22 Gerald Goertzel
+
+64 20 Gertrude Scharff Goldhaber
+
+20 64 Gertrude Scharff Goldhaber
+
+4 65 Alvin C. Graves
+
+4 66 Alvin C. Graves
+
+4 5 Alvin C. Graves
+
+65 4 Alvin C. Graves
+
+65 66 Alvin C. Graves
+
+65 5 Alvin C. Graves
+
+66 4 Alvin C. Graves
+
+66 65 Alvin C. Graves
+
+66 5 Alvin C. Graves
+
+5 4 Alvin C. Graves
+
+5 65 Alvin C. Graves
+
+5 66 Alvin C. Graves
+
+27 67 Geoffrey L. Greene
+
+27 19 Geoffrey L. Greene
+
+27 68 Geoffrey L. Greene
+
+67 27 Geoffrey L. Greene
+
+67 19 Geoffrey L. Greene
+
+67 68 Geoffrey L. Greene
+
+19 27 Geoffrey L. Greene
+
+19 67 Geoffrey L. Greene
+
+19 68 Geoffrey L. Greene
+
+68 27 Geoffrey L. Greene
+
+68 67 Geoffrey L. Greene
+
+68 19 Geoffrey L. Greene
+
+69 70 Ross Gunn
+
+70 69 Ross Gunn
+
+71 3 Erwin Hahn
+
+3 71 Erwin Hahn
+
+66 72 Jane Hamilton Hall
+
+66 61 Jane Hamilton Hall
+
+66 7 Jane Hamilton Hall
+
+72 66 Jane Hamilton Hall
+
+72 61 Jane Hamilton Hall
+
+72 7 Jane Hamilton Hall
+
+61 66 Jane Hamilton Hall
+
+61 72 Jane Hamilton Hall
+
+61 7 Jane Hamilton Hall
+
+7 66 Jane Hamilton Hall
+
+7 72 Jane Hamilton Hall
+
+7 61 Jane Hamilton Hall
+
+17 51 William W. Havens Jr.
+
+51 17 William W. Havens Jr.
+
+73 74 Karl Herzfeld
+
+73 75 Karl Herzfeld
+
+74 73 Karl Herzfeld
+
+74 75 Karl Herzfeld
+
+75 73 Karl Herzfeld
+
+75 74 Karl Herzfeld
+
+76 77 Wilmot N. Hess
+
+76 78 Wilmot N. Hess
+
+76 54 Wilmot N. Hess
+
+77 76 Wilmot N. Hess
+
+77 78 Wilmot N. Hess
+
+77 54 Wilmot N. Hess
+
+78 76 Wilmot N. Hess
+
+78 77 Wilmot N. Hess
+
+78 54 Wilmot N. Hess
+
+54 76 Wilmot N. Hess
+
+54 77 Wilmot N. Hess
+
+54 78 Wilmot N. Hess
+
+42 26 Joseph O. Hirschfelder
+
+42 79 Joseph O. Hirschfelder
+
+42 5 Joseph O. Hirschfelder
+
+26 42 Joseph O. Hirschfelder
+
+26 79 Joseph O. Hirschfelder
+
+26 5 Joseph O. Hirschfelder
+
+79 42 Joseph O. Hirschfelder
+
+79 26 Joseph O. Hirschfelder
+
+79 5 Joseph O. Hirschfelder
+
+5 42 Joseph O. Hirschfelder
+
+5 26 Joseph O. Hirschfelder
+
+5 79 Joseph O. Hirschfelder
+
+71 2 Robert Hofstadter
+
+2 71 Robert Hofstadter
+
+80 31 Charles H. Holbrow
+
+80 6 Charles H. Holbrow
+
+80 20 Charles H. Holbrow
+
+80 28 Charles H. Holbrow
+
+80 81 Charles H. Holbrow
+
+80 71 Charles H. Holbrow
+
+80 82 Charles H. Holbrow
+
+80 83 Charles H. Holbrow
+
+80 84 Charles H. Holbrow
+
+80 85 Charles H. Holbrow
+
+80 86 Charles H. Holbrow
+
+80 8 Charles H. Holbrow
+
+31 80 Charles H. Holbrow
+
+31 6 Charles H. Holbrow
+
+31 20 Charles H. Holbrow
+
+31 28 Charles H. Holbrow
+
+31 81 Charles H. Holbrow
+
+31 71 Charles H. Holbrow
+
+31 82 Charles H. Holbrow
+
+31 83 Charles H. Holbrow
+
+31 84 Charles H. Holbrow
+
+31 85 Charles H. Holbrow
+
+31 86 Charles H. Holbrow
+
+31 8 Charles H. Holbrow
+
+6 80 Charles H. Holbrow
+
+6 31 Charles H. Holbrow
+
+6 20 Charles H. Holbrow
+
+6 28 Charles H. Holbrow
+
+6 81 Charles H. Holbrow
+
+6 71 Charles H. Holbrow
+
+6 82 Charles H. Holbrow
+
+6 83 Charles H. Holbrow
+
+6 84 Charles H. Holbrow
+
+6 85 Charles H. Holbrow
+
+6 86 Charles H. Holbrow
+
+6 8 Charles H. Holbrow
+
+20 80 Charles H. Holbrow
+
+20 31 Charles H. Holbrow
+
+20 6 Charles H. Holbrow
+
+20 28 Charles H. Holbrow
+
+20 81 Charles H. Holbrow
+
+20 71 Charles H. Holbrow
+
+20 82 Charles H. Holbrow
+
+20 83 Charles H. Holbrow
+
+20 84 Charles H. Holbrow
+
+20 85 Charles H. Holbrow
+
+20 86 Charles H. Holbrow
+
+20 8 Charles H. Holbrow
+
+28 80 Charles H. Holbrow
+
+28 31 Charles H. Holbrow
+
+28 6 Charles H. Holbrow
+
+28 20 Charles H. Holbrow
+
+28 81 Charles H. Holbrow
+
+28 71 Charles H. Holbrow
+
+28 82 Charles H. Holbrow
+
+28 83 Charles H. Holbrow
+
+28 84 Charles H. Holbrow
+
+28 85 Charles H. Holbrow
+
+28 86 Charles H. Holbrow
+
+28 8 Charles H. Holbrow
+
+81 80 Charles H. Holbrow
+
+81 31 Charles H. Holbrow
+
+81 6 Charles H. Holbrow
+
+81 20 Charles H. Holbrow
+
+81 28 Charles H. Holbrow
+
+81 71 Charles H. Holbrow
+
+81 82 Charles H. Holbrow
+
+81 83 Charles H. Holbrow
+
+81 84 Charles H. Holbrow
+
+81 85 Charles H. Holbrow
+
+81 86 Charles H. Holbrow
+
+81 8 Charles H. Holbrow
+
+71 80 Charles H. Holbrow
+
+71 31 Charles H. Holbrow
+
+71 6 Charles H. Holbrow
+
+71 20 Charles H. Holbrow
+
+71 28 Charles H. Holbrow
+
+71 81 Charles H. Holbrow
+
+71 82 Charles H. Holbrow
+
+71 83 Charles H. Holbrow
+
+71 84 Charles H. Holbrow
+
+71 85 Charles H. Holbrow
+
+71 86 Charles H. Holbrow
+
+71 8 Charles H. Holbrow
+
+82 80 Charles H. Holbrow
+
+82 31 Charles H. Holbrow
+
+82 6 Charles H. Holbrow
+
+82 20 Charles H. Holbrow
+
+82 28 Charles H. Holbrow
+
+82 81 Charles H. Holbrow
+
+82 71 Charles H. Holbrow
+
+82 83 Charles H. Holbrow
+
+82 84 Charles H. Holbrow
+
+82 85 Charles H. Holbrow
+
+82 86 Charles H. Holbrow
+
+82 8 Charles H. Holbrow
+
+83 80 Charles H. Holbrow
+
+83 31 Charles H. Holbrow
+
+83 6 Charles H. Holbrow
+
+83 20 Charles H. Holbrow
+
+83 28 Charles H. Holbrow
+
+83 81 Charles H. Holbrow
+
+83 71 Charles H. Holbrow
+
+83 82 Charles H. Holbrow
+
+83 84 Charles H. Holbrow
+
+83 85 Charles H. Holbrow
+
+83 86 Charles H. Holbrow
+
+83 8 Charles H. Holbrow
+
+84 80 Charles H. Holbrow
+
+84 31 Charles H. Holbrow
+
+84 6 Charles H. Holbrow
+
+84 20 Charles H. Holbrow
+
+84 28 Charles H. Holbrow
+
+84 81 Charles H. Holbrow
+
+84 71 Charles H. Holbrow
+
+84 82 Charles H. Holbrow
+
+84 83 Charles H. Holbrow
+
+84 85 Charles H. Holbrow
+
+84 86 Charles H. Holbrow
+
+84 8 Charles H. Holbrow
+
+85 80 Charles H. Holbrow
+
+85 31 Charles H. Holbrow
+
+85 6 Charles H. Holbrow
+
+85 20 Charles H. Holbrow
+
+85 28 Charles H. Holbrow
+
+85 81 Charles H. Holbrow
+
+85 71 Charles H. Holbrow
+
+85 82 Charles H. Holbrow
+
+85 83 Charles H. Holbrow
+
+85 84 Charles H. Holbrow
+
+85 86 Charles H. Holbrow
+
+85 8 Charles H. Holbrow
+
+86 80 Charles H. Holbrow
+
+86 31 Charles H. Holbrow
+
+86 6 Charles H. Holbrow
+
+86 20 Charles H. Holbrow
+
+86 28 Charles H. Holbrow
+
+86 81 Charles H. Holbrow
+
+86 71 Charles H. Holbrow
+
+86 82 Charles H. Holbrow
+
+86 83 Charles H. Holbrow
+
+86 84 Charles H. Holbrow
+
+86 85 Charles H. Holbrow
+
+86 8 Charles H. Holbrow
+
+8 80 Charles H. Holbrow
+
+8 31 Charles H. Holbrow
+
+8 6 Charles H. Holbrow
+
+8 20 Charles H. Holbrow
+
+8 28 Charles H. Holbrow
+
+8 81 Charles H. Holbrow
+
+8 71 Charles H. Holbrow
+
+8 82 Charles H. Holbrow
+
+8 83 Charles H. Holbrow
+
+8 84 Charles H. Holbrow
+
+8 85 Charles H. Holbrow
+
+8 86 Charles H. Holbrow
+
+88 89 Calvin Howell
+
+89 88 Calvin Howell
+
+5 28 Barbara Jacak
+
+28 5 Barbara Jacak
+
+90 91 John David Jackson (physicist)
+
+90 64 John David Jackson (physicist)
+
+90 3 John David Jackson (physicist)
+
+90 92 John David Jackson (physicist)
+
+91 90 John David Jackson (physicist)
+
+91 64 John David Jackson (physicist)
+
+91 3 John David Jackson (physicist)
+
+91 92 John David Jackson (physicist)
+
+64 90 John David Jackson (physicist)
+
+64 91 John David Jackson (physicist)
+
+64 3 John David Jackson (physicist)
+
+64 92 John David Jackson (physicist)
+
+3 90 John David Jackson (physicist)
+
+3 91 John David Jackson (physicist)
+
+3 64 John David Jackson (physicist)
+
+3 92 John David Jackson (physicist)
+
+92 90 John David Jackson (physicist)
+
+92 91 John David Jackson (physicist)
+
+92 64 John David Jackson (physicist)
+
+92 3 John David Jackson (physicist)
+
+93 62 David B. Kaplan
+
+93 38 David B. Kaplan
+
+62 93 David B. Kaplan
+
+62 38 David B. Kaplan
+
+38 93 David B. Kaplan
+
+38 62 David B. Kaplan
+
+29 94 Cynthia Keppel
+
+94 29 Cynthia Keppel
+
+8 2 Abraham Klein (physicist)
+
+2 8 Abraham Klein (physicist)
+
+3 96 Franz N. D. Kurie
+
+3 34 Franz N. D. Kurie
+
+3 97 Franz N. D. Kurie
+
+3 98 Franz N. D. Kurie
+
+96 3 Franz N. D. Kurie
+
+96 34 Franz N. D. Kurie
+
+96 97 Franz N. D. Kurie
+
+96 98 Franz N. D. Kurie
+
+34 3 Franz N. D. Kurie
+
+34 96 Franz N. D. Kurie
+
+34 97 Franz N. D. Kurie
+
+34 98 Franz N. D. Kurie
+
+97 3 Franz N. D. Kurie
+
+97 96 Franz N. D. Kurie
+
+97 34 Franz N. D. Kurie
+
+97 98 Franz N. D. Kurie
+
+98 3 Franz N. D. Kurie
+
+98 96 Franz N. D. Kurie
+
+98 34 Franz N. D. Kurie
+
+98 97 Franz N. D. Kurie
+
+99 100 Anatoly Larkin
+
+99 101 Anatoly Larkin
+
+100 99 Anatoly Larkin
+
+100 101 Anatoly Larkin
+
+101 99 Anatoly Larkin
+
+101 100 Anatoly Larkin
+
+3 27 Ernest Lawrence
+
+27 3 Ernest Lawrence
+
+3 8 John J. Livingood
+
+3 102 John J. Livingood
+
+3 103 John J. Livingood
+
+8 3 John J. Livingood
+
+8 102 John J. Livingood
+
+8 103 John J. Livingood
+
+102 3 John J. Livingood
+
+102 8 John J. Livingood
+
+102 103 John J. Livingood
+
+103 3 John J. Livingood
+
+103 8 John J. Livingood
+
+103 102 John J. Livingood
+
+36 104 Kenneth Ross MacKenzie
+
+104 36 Kenneth Ross MacKenzie
+
+51 5 John Henry Manley
+
+51 34 John Henry Manley
+
+5 51 John Henry Manley
+
+5 34 John Henry Manley
+
+34 51 John Henry Manley
+
+34 5 John Henry Manley
+
+27 105 Reina Maruyama
+
+105 27 Reina Maruyama
+
+90 17 Boyce McDaniel
+
+90 106 Boyce McDaniel
+
+17 90 Boyce McDaniel
+
+17 106 Boyce McDaniel
+
+106 90 Boyce McDaniel
+
+106 17 Boyce McDaniel
+
+26 5 Joseph Laws McKibben
+
+5 26 Joseph Laws McKibben
+
+20 107 Saskia Mioduszewski
+
+107 20 Saskia Mioduszewski
+
+109 3 William Nierenberg
+
+109 110 William Nierenberg
+
+3 109 William Nierenberg
+
+3 110 William Nierenberg
+
+110 109 William Nierenberg
+
+110 3 William Nierenberg
+
+71 111 H. Pierre Noyes
+
+111 71 H. Pierre Noyes
+
+112 17 Frank Oppenheimer
+
+112 113 Frank Oppenheimer
+
+112 25 Frank Oppenheimer
+
+112 114 Frank Oppenheimer
+
+17 112 Frank Oppenheimer
+
+17 113 Frank Oppenheimer
+
+17 25 Frank Oppenheimer
+
+17 114 Frank Oppenheimer
+
+113 112 Frank Oppenheimer
+
+113 17 Frank Oppenheimer
+
+113 25 Frank Oppenheimer
+
+113 114 Frank Oppenheimer
+
+25 112 Frank Oppenheimer
+
+25 17 Frank Oppenheimer
+
+25 113 Frank Oppenheimer
+
+25 114 Frank Oppenheimer
+
+114 112 Frank Oppenheimer
+
+114 17 Frank Oppenheimer
+
+114 113 Frank Oppenheimer
+
+114 25 Frank Oppenheimer
+
+3 84 J. Robert Oppenheimer
+
+3 7 J. Robert Oppenheimer
+
+3 42 J. Robert Oppenheimer
+
+84 3 J. Robert Oppenheimer
+
+84 7 J. Robert Oppenheimer
+
+84 42 J. Robert Oppenheimer
+
+7 3 J. Robert Oppenheimer
+
+7 84 J. Robert Oppenheimer
+
+7 42 J. Robert Oppenheimer
+
+42 3 J. Robert Oppenheimer
+
+42 84 J. Robert Oppenheimer
+
+42 7 J. Robert Oppenheimer
+
+115 25 Melba Phillips
+
+115 34 Melba Phillips
+
+115 4 Melba Phillips
+
+25 115 Melba Phillips
+
+25 34 Melba Phillips
+
+25 4 Melba Phillips
+
+34 115 Melba Phillips
+
+34 25 Melba Phillips
+
+34 4 Melba Phillips
+
+4 115 Melba Phillips
+
+4 25 Melba Phillips
+
+4 34 Melba Phillips
+
+116 76 Lisa Porter
+
+116 117 Lisa Porter
+
+116 118 Lisa Porter
+
+116 119 Lisa Porter
+
+76 116 Lisa Porter
+
+76 117 Lisa Porter
+
+76 118 Lisa Porter
+
+76 119 Lisa Porter
+
+117 116 Lisa Porter
+
+117 76 Lisa Porter
+
+117 118 Lisa Porter
+
+117 119 Lisa Porter
+
+118 116 Lisa Porter
+
+118 76 Lisa Porter
+
+118 117 Lisa Porter
+
+118 119 Lisa Porter
+
+119 116 Lisa Porter
+
+119 76 Lisa Porter
+
+119 117 Lisa Porter
+
+119 118 Lisa Porter
+
+31 120 Daniel Q. Posin
+
+31 121 Daniel Q. Posin
+
+31 122 Daniel Q. Posin
+
+120 31 Daniel Q. Posin
+
+120 121 Daniel Q. Posin
+
+120 122 Daniel Q. Posin
+
+121 31 Daniel Q. Posin
+
+121 120 Daniel Q. Posin
+
+121 122 Daniel Q. Posin
+
+122 31 Daniel Q. Posin
+
+122 120 Daniel Q. Posin
+
+122 121 Daniel Q. Posin
+

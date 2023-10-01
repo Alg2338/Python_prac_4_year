@@ -1,0 +1,2836 @@
+- connects:
+  - Cherkizovskaya
+  latitude: 55.8148
+  line: '1'
+  longtitude: 37.7342
+  name: Bulvar Rokossovskogo
+  opened: '1990-08-01'
+  transfers:
+  - line: '14'
+    name: Bulvar Rokossovskogo
+- connects:
+  - Bulvar Rokossovskogo
+  - Preobrazhenskaya Ploshchad
+  latitude: 55.8038
+  line: '1'
+  longtitude: 37.7448
+  name: Cherkizovskaya
+  opened: '1990-08-01'
+  transfers:
+  - line: '14'
+    name: Lokomotiv
+- connects:
+  - Cherkizovskaya
+  - Sokolniki
+  latitude: 55.7963
+  line: '1'
+  longtitude: 37.7151
+  name: Preobrazhenskaya Ploshchad
+  opened: '1965-12-31'
+  transfers: []
+- connects:
+  - Preobrazhenskaya Ploshchad
+  - Krasnoselskaya
+  latitude: 55.7888
+  line: '1'
+  longtitude: 37.6802
+  name: Sokolniki
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Sokolniki
+  - Komsomolskaya
+  latitude: 55.7801
+  line: '1'
+  longtitude: 37.6673
+  name: Krasnoselskaya
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Krasnoselskaya
+  - Krasnye Vorota
+  latitude: 55.7753
+  line: '1'
+  longtitude: 37.6562
+  name: Komsomolskaya
+  opened: '1935-05-15'
+  transfers:
+  - line: '5'
+    name: Komsomolskaya
+- connects:
+  - Komsomolskaya
+  - Chistye Prudy
+  latitude: 55.769
+  line: '1'
+  longtitude: 37.6487
+  name: Krasnye Vorota
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Krasnye Vorota
+  - Lubyanka
+  latitude: 55.7657
+  line: '1'
+  longtitude: 37.6388
+  name: Chistye Prudy
+  opened: '1935-05-15'
+  transfers:
+  - line: '6'
+    name: Turgenevskaya
+  - line: '10'
+    name: Sretensky Bulvar
+- connects:
+  - Chistye Prudy
+  - Okhotny Ryad
+  latitude: 55.7597
+  line: '1'
+  longtitude: 37.6272
+  name: Lubyanka
+  opened: '1935-05-15'
+  transfers:
+  - line: '7'
+    name: Kuznetsky Most
+- connects:
+  - Lubyanka
+  - Biblioteka Imeni Lenina
+  latitude: 55.7577
+  line: '1'
+  longtitude: 37.6166
+  name: Okhotny Ryad
+  opened: '1935-05-15'
+  transfers:
+  - line: '2'
+    name: Teatralnaya
+  - line: '3'
+    name: Ploshchad Revolyutsii
+- connects:
+  - Okhotny Ryad
+  - Kropotkinskaya
+  latitude: 55.7512
+  line: '1'
+  longtitude: 37.61
+  name: Biblioteka Imeni Lenina
+  opened: '1935-05-15'
+  transfers:
+  - line: '3'
+    name: Arbatskaya
+  - line: '4'
+    name: Aleksandrovsky Sad
+  - line: '9'
+    name: Borovitskaya
+- connects:
+  - Biblioteka Imeni Lenina
+  - Park Kultury
+  latitude: 55.7453
+  line: '1'
+  longtitude: 37.6037
+  name: Kropotkinskaya
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Kropotkinskaya
+  - Frunzenskaya
+  latitude: 55.7356
+  line: '1'
+  longtitude: 37.5943
+  name: Park Kultury
+  opened: '1935-05-15'
+  transfers:
+  - line: '5'
+    name: Park Kultury
+- connects:
+  - Park Kultury
+  - Sportivnaya
+  latitude: 55.7267
+  line: '1'
+  longtitude: 37.5786
+  name: Frunzenskaya
+  opened: '1957-05-01'
+  transfers: []
+- connects:
+  - Frunzenskaya
+  - Vorobyovy Gory
+  latitude: 55.7233
+  line: '1'
+  longtitude: 37.5639
+  name: Sportivnaya
+  opened: '1957-05-01'
+  transfers:
+  - line: '14'
+    name: Luzhniki
+- connects:
+  - Sportivnaya
+  - Universitet
+  latitude: 55.7103
+  line: '1'
+  longtitude: 37.5592
+  name: Vorobyovy Gory
+  opened: '1959-01-12'
+  transfers: []
+- connects:
+  - Vorobyovy Gory
+  - Prospekt Vernadskogo
+  latitude: 55.6926
+  line: '1'
+  longtitude: 37.5333
+  name: Universitet
+  opened: '1959-01-12'
+  transfers: []
+- connects:
+  - Universitet
+  - Yugo-Zapadnaya
+  latitude: 55.6771
+  line: '1'
+  longtitude: 37.506
+  name: Prospekt Vernadskogo
+  opened: '1963-12-30'
+  transfers:
+  - line: '11'
+    name: Prospekt Vernadskogo
+- connects:
+  - Prospekt Vernadskogo
+  - Troparyovo
+  latitude: 55.6637
+  line: '1'
+  longtitude: 37.4833
+  name: Yugo-Zapadnaya
+  opened: '1963-12-30'
+  transfers: []
+- connects:
+  - Yugo-Zapadnaya
+  - Rumyantsevo
+  latitude: 55.6459
+  line: '1'
+  longtitude: 37.4725
+  name: Troparyovo
+  opened: '2014-12-08'
+  transfers: []
+- connects:
+  - Troparyovo
+  - Salaryevo
+  latitude: 55.633
+  line: '1'
+  longtitude: 37.4419
+  name: Rumyantsevo
+  opened: '2016-01-18'
+  transfers: []
+- connects:
+  - Rumyantsevo
+  - Filatov Lug
+  latitude: 55.6227
+  line: '1'
+  longtitude: 37.424
+  name: Salaryevo
+  opened: '2016-02-15'
+  transfers: []
+- connects:
+  - Salaryevo
+  - Prokshino
+  latitude: 55.601367
+  line: '1'
+  longtitude: 37.407645
+  name: Filatov Lug
+  opened: '2019-06-20'
+  transfers: []
+- connects:
+  - Filatov Lug
+  - Olkhovaya
+  latitude: 55.586242
+  line: '1'
+  longtitude: 37.433802
+  name: Prokshino
+  opened: '2019-06-20'
+  transfers: []
+- connects:
+  - Prokshino
+  - Kommunarka
+  latitude: 55.568643
+  line: '1'
+  longtitude: 37.459332
+  name: Olkhovaya
+  opened: '2019-06-20'
+  transfers: []
+- connects:
+  - Olkhovaya
+  latitude: 55.560396
+  line: '1'
+  longtitude: 37.46822
+  name: Kommunarka
+  opened: '2019-06-20'
+  transfers: []
+- connects:
+  - Belomorskaya
+  latitude: 55.8791
+  line: '2'
+  longtitude: 37.4822
+  name: Khovrino
+  opened: '2017-12-31'
+  transfers: []
+- connects:
+  - Khovrino
+  - Rechnoy Vokzal
+  latitude: 55.8658
+  line: '2'
+  longtitude: 37.4764
+  name: Belomorskaya
+  opened: '2018-12-20'
+  transfers: []
+- connects:
+  - Belomorskaya
+  - Vodny Stadion
+  latitude: 55.8549
+  line: '2'
+  longtitude: 37.4761
+  name: Rechnoy Vokzal
+  opened: '1964-12-31'
+  transfers: []
+- connects:
+  - Rechnoy Vokzal
+  - Voykovskaya
+  latitude: 55.8398
+  line: '2'
+  longtitude: 37.4867
+  name: Vodny Stadion
+  opened: '1964-12-31'
+  transfers: []
+- connects:
+  - Vodny Stadion
+  - Sokol
+  latitude: 55.819
+  line: '2'
+  longtitude: 37.498
+  name: Voykovskaya
+  opened: '1964-12-31'
+  transfers:
+  - line: '14'
+    name: Baltiyskaya
+- connects:
+  - Voykovskaya
+  - Aeroport
+  latitude: 55.8051
+  line: '2'
+  longtitude: 37.5153
+  name: Sokol
+  opened: '1938-09-11'
+  transfers: []
+- connects:
+  - Sokol
+  - Dinamo
+  latitude: 55.8003
+  line: '2'
+  longtitude: 37.5329
+  name: Aeroport
+  opened: '1938-09-11'
+  transfers: []
+- connects:
+  - Aeroport
+  - Belorusskaya
+  latitude: 55.7897
+  line: '2'
+  longtitude: 37.558
+  name: Dinamo
+  opened: '1938-09-11'
+  transfers:
+  - line: '11'
+    name: Petrovsky Park
+- connects:
+  - Dinamo
+  - Mayakovskaya
+  latitude: 55.7767
+  line: '2'
+  longtitude: 37.5835
+  name: Belorusskaya
+  opened: '1938-09-11'
+  transfers:
+  - line: '5'
+    name: Belorusskaya
+- connects:
+  - Belorusskaya
+  - Tverskaya
+  latitude: 55.7701
+  line: '2'
+  longtitude: 37.5958
+  name: Mayakovskaya
+  opened: '1938-09-11'
+  transfers: []
+- connects:
+  - Mayakovskaya
+  - Teatralnaya
+  latitude: 55.7647
+  line: '2'
+  longtitude: 37.6065
+  name: Tverskaya
+  opened: '1979-07-20'
+  transfers:
+  - line: '7'
+    name: Pushkinskaya
+  - line: '9'
+    name: Chekhovskaya
+- connects:
+  - Tverskaya
+  - Novokuznetskaya
+  latitude: 55.7578
+  line: '2'
+  longtitude: 37.619
+  name: Teatralnaya
+  opened: '1938-09-11'
+  transfers:
+  - line: '1'
+    name: Okhotny Ryad
+  - line: '3'
+    name: Ploshchad Revolyutsii
+- connects:
+  - Teatralnaya
+  - Paveletskaya
+  latitude: 55.7415
+  line: '2'
+  longtitude: 37.6295
+  name: Novokuznetskaya
+  opened: '1943-11-20'
+  transfers:
+  - line: '6'
+    name: Tretyakovskaya
+  - line: '8'
+    name: Tretyakovskaya
+- connects:
+  - Novokuznetskaya
+  - Avtozavodskaya
+  latitude: 55.7305
+  line: '2'
+  longtitude: 37.6377
+  name: Paveletskaya
+  opened: '1943-11-20'
+  transfers:
+  - line: '5'
+    name: Paveletskaya
+- connects:
+  - Paveletskaya
+  - Tekhnopark
+  latitude: 55.7074
+  line: '2'
+  longtitude: 37.6576
+  name: Avtozavodskaya
+  opened: '1943-01-01'
+  transfers:
+  - line: '14'
+    name: Avtozavodskaya
+- connects:
+  - Avtozavodskaya
+  - Kolomenskaya
+  latitude: 55.695
+  line: '2'
+  longtitude: 37.6641
+  name: Tekhnopark
+  opened: '2015-12-28'
+  transfers: []
+- connects:
+  - Tekhnopark
+  - Kashirskaya
+  latitude: 55.6785
+  line: '2'
+  longtitude: 37.6638
+  name: Kolomenskaya
+  opened: '1969-08-11'
+  transfers: []
+- connects:
+  - Kolomenskaya
+  - Kantemirovskaya
+  latitude: 55.6551
+  line: '2'
+  longtitude: 37.6487
+  name: Kashirskaya
+  opened: '1969-08-11'
+  transfers: []
+- connects:
+  - Kashirskaya
+  - Tsaritsyno
+  latitude: 55.6358
+  line: '2'
+  longtitude: 37.6564
+  name: Kantemirovskaya
+  opened: '1984-12-30'
+  transfers: []
+- connects:
+  - Kantemirovskaya
+  - Orekhovo
+  latitude: 55.6214
+  line: '2'
+  longtitude: 37.6694
+  name: Tsaritsyno
+  opened: '1984-12-30'
+  transfers: []
+- connects:
+  - Tsaritsyno
+  - Domodedovskaya
+  latitude: 55.6132
+  line: '2'
+  longtitude: 37.6949
+  name: Orekhovo
+  opened: '1984-12-30'
+  transfers: []
+- connects:
+  - Orekhovo
+  - Krasnogvardeyskaya
+  latitude: 55.6108
+  line: '2'
+  longtitude: 37.7186
+  name: Domodedovskaya
+  opened: '1985-09-07'
+  transfers: []
+- connects:
+  - Domodedovskaya
+  - Alma-Atinskaya
+  latitude: 55.6137
+  line: '2'
+  longtitude: 37.7444
+  name: Krasnogvardeyskaya
+  opened: '1985-09-07'
+  transfers:
+  - line: '10'
+    name: Zyablikovo
+- connects:
+  - Krasnogvardeyskaya
+  latitude: 55.6326
+  line: '2'
+  longtitude: 37.766
+  name: Alma-Atinskaya
+  opened: '2012-12-24'
+  transfers: []
+- connects:
+  - Mitino
+  latitude: 55.8563
+  line: '3'
+  longtitude: 37.3544
+  name: Pyatnitskoye Shosse
+  opened: '2012-12-28'
+  transfers: []
+- connects:
+  - Pyatnitskoye Shosse
+  - Volokolamskaya
+  latitude: 55.8457
+  line: '3'
+  longtitude: 37.3622
+  name: Mitino
+  opened: '2009-12-26'
+  transfers: []
+- connects:
+  - Mitino
+  - Myakinino
+  latitude: 55.8354
+  line: '3'
+  longtitude: 37.3822
+  name: Volokolamskaya
+  opened: '2009-12-26'
+  transfers: []
+- connects:
+  - Volokolamskaya
+  - Strogino
+  latitude: 55.8252
+  line: '3'
+  longtitude: 37.3852
+  name: Myakinino
+  opened: '2009-12-26'
+  transfers: []
+- connects:
+  - Myakinino
+  - Krylatskoye
+  latitude: 55.8038
+  line: '3'
+  longtitude: 37.4031
+  name: Strogino
+  opened: '2008-01-07'
+  transfers: []
+- connects:
+  - Strogino
+  - Molodyozhnaya
+  latitude: 55.7567
+  line: '3'
+  longtitude: 37.4081
+  name: Krylatskoye
+  opened: '1989-12-31'
+  transfers: []
+- connects:
+  - Krylatskoye
+  - Kuntsevskaya
+  latitude: 55.7408
+  line: '3'
+  longtitude: 37.4168
+  name: Molodyozhnaya
+  opened: '1965-07-05'
+  transfers: []
+- connects:
+  - Molodyozhnaya
+  - Slavyansky Bulvar
+  latitude: 55.7307
+  line: '3'
+  longtitude: 37.4459
+  name: Kuntsevskaya
+  opened: '2008-01-07'
+  transfers:
+  - line: '4'
+    name: Kuntsevskaya
+  - line: '11'
+    name: Kuntsevskaya
+- connects:
+  - Kuntsevskaya
+  - Park Pobedy
+  latitude: 55.7296
+  line: '3'
+  longtitude: 37.4706
+  name: Slavyansky Bulvar
+  opened: '2008-09-07'
+  transfers: []
+- connects:
+  - Slavyansky Bulvar
+  - Kiyevskaya
+  latitude: 55.7362
+  line: '3'
+  longtitude: 37.5182
+  name: Park Pobedy
+  opened: '2003-05-06'
+  transfers:
+  - line: 8A
+    name: Park Pobedy
+- connects:
+  - Park Pobedy
+  - Smolenskaya
+  latitude: 55.7442
+  line: '3'
+  longtitude: 37.5645
+  name: Kiyevskaya
+  opened: '1953-04-05'
+  transfers:
+  - line: '4'
+    name: Kiyevskaya
+  - line: '5'
+    name: Kiyevskaya
+- connects:
+  - Kiyevskaya
+  - Arbatskaya
+  latitude: 55.7474
+  line: '3'
+  longtitude: 37.5823
+  name: Smolenskaya
+  opened: '1953-04-05'
+  transfers: []
+- connects:
+  - Smolenskaya
+  - Ploshchad Revolyutsii
+  latitude: 55.7522
+  line: '3'
+  longtitude: 37.6061
+  name: Arbatskaya
+  opened: '1953-04-05'
+  transfers:
+  - line: '1'
+    name: Biblioteka Imeni Lenina
+  - line: '4'
+    name: Aleksandrovsky Sad
+  - line: '9'
+    name: Borovitskaya
+- connects:
+  - Arbatskaya
+  - Kurskaya
+  latitude: 55.7566
+  line: '3'
+  longtitude: 37.6216
+  name: Ploshchad Revolyutsii
+  opened: '1938-03-13'
+  transfers:
+  - line: '2'
+    name: Teatralnaya
+  - line: '1'
+    name: Okhotny Ryad
+- connects:
+  - Ploshchad Revolyutsii
+  - Baumanskaya
+  latitude: 55.7576
+  line: '3'
+  longtitude: 37.6577
+  name: Kurskaya
+  opened: '1938-03-13'
+  transfers:
+  - line: '5'
+    name: Kurskaya
+  - line: '10'
+    name: Chkalovskaya
+- connects:
+  - Kurskaya
+  - Elektrozavodskaya
+  latitude: 55.773
+  line: '3'
+  longtitude: 37.6806
+  name: Baumanskaya
+  opened: '1944-01-18'
+  transfers: []
+- connects:
+  - Baumanskaya
+  - Semyonovskaya
+  latitude: 55.7817
+  line: '3'
+  longtitude: 37.7037
+  name: Elektrozavodskaya
+  opened: '1944-05-15'
+  transfers:
+  - line: '15'
+    name: Elektrozavodskaya
+- connects:
+  - Elektrozavodskaya
+  - Partizanskaya
+  latitude: 55.7833
+  line: '3'
+  longtitude: 37.7208
+  name: Semyonovskaya
+  opened: '1944-01-18'
+  transfers: []
+- connects:
+  - Semyonovskaya
+  - Izmaylovskaya
+  latitude: 55.7886
+  line: '3'
+  longtitude: 37.7506
+  name: Partizanskaya
+  opened: '1944-01-18'
+  transfers:
+  - line: '14'
+    name: Izmaylovo
+- connects:
+  - Partizanskaya
+  - Pervomayskaya
+  latitude: 55.7878
+  line: '3'
+  longtitude: 37.7814
+  name: Izmaylovskaya
+  opened: '1961-10-21'
+  transfers: []
+- connects:
+  - Izmaylovskaya
+  - Shchyolkovskaya
+  latitude: 55.7948
+  line: '3'
+  longtitude: 37.7993
+  name: Pervomayskaya
+  opened: '1961-10-21'
+  transfers: []
+- connects:
+  - Pervomayskaya
+  latitude: 55.8094
+  line: '3'
+  longtitude: 37.7986
+  name: Shchyolkovskaya
+  opened: '1963-07-22'
+  transfers: []
+- connects:
+  - Pionerskaya
+  latitude: 55.7307
+  line: '4'
+  longtitude: 37.4459
+  name: Kuntsevskaya
+  opened: '1965-08-31'
+  transfers:
+  - line: '3'
+    name: Kuntsevskaya
+  - line: '11'
+    name: Kuntsevskaya
+- connects:
+  - Kuntsevskaya
+  - Filyovsky Park
+  latitude: 55.736
+  line: '4'
+  longtitude: 37.4671
+  name: Pionerskaya
+  opened: '1961-10-13'
+  transfers: []
+- connects:
+  - Pionerskaya
+  - Bagrationovskaya
+  latitude: 55.7396
+  line: '4'
+  longtitude: 37.4833
+  name: Filyovsky Park
+  opened: '1961-10-13'
+  transfers: []
+- connects:
+  - Filyovsky Park
+  - Fili
+  latitude: 55.7438
+  line: '4'
+  longtitude: 37.4977
+  name: Bagrationovskaya
+  opened: '1961-10-13'
+  transfers: []
+- connects:
+  - Bagrationovskaya
+  - Kutuzovskaya
+  latitude: 55.746
+  line: '4'
+  longtitude: 37.515
+  name: Fili
+  opened: '1959-11-07'
+  transfers: []
+- connects:
+  - Fili
+  - Studencheskaya
+  latitude: 55.7399
+  line: '4'
+  longtitude: 37.5344
+  name: Kutuzovskaya
+  opened: '1958-11-07'
+  transfers:
+  - line: '14'
+    name: Kutuzovskaya
+- connects:
+  - Kutuzovskaya
+  - Kiyevskaya
+  latitude: 55.7388
+  line: '4'
+  longtitude: 37.5483
+  name: Studencheskaya
+  opened: '1958-11-07'
+  transfers: []
+- connects:
+  - Studencheskaya
+  - Smolenskaya
+  latitude: 55.7436
+  line: '4'
+  longtitude: 37.5655
+  name: Kiyevskaya
+  opened: '1937-03-20'
+  transfers:
+  - line: '3'
+    name: Kiyevskaya
+  - line: '5'
+    name: Kiyevskaya
+- connects:
+  - Kiyevskaya
+  - Arbatskaya
+  latitude: 55.7488
+  line: '4'
+  longtitude: 37.5825
+  name: Smolenskaya
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Smolenskaya
+  - Aleksandrovsky Sad
+  latitude: 55.7518
+  line: '4'
+  longtitude: 37.6007
+  name: Arbatskaya
+  opened: '1935-05-15'
+  transfers: []
+- connects:
+  - Arbatskaya
+  latitude: 55.7525
+  line: '4'
+  longtitude: 37.6085
+  name: Aleksandrovsky Sad
+  opened: '1935-05-15'
+  transfers:
+  - line: '1'
+    name: Biblioteka Imeni Lenina
+  - line: '3'
+    name: Arbatskaya
+  - line: '9'
+    name: Borovitskaya
+- connects:
+  - Krasnopresnenskaya
+  latitude: 55.7446
+  line: '5'
+  longtitude: 37.5644
+  name: Kiyevskaya
+  opened: '1954-03-14'
+  transfers:
+  - line: '3'
+    name: Kiyevskaya
+  - line: '4'
+    name: Kiyevskaya
+- connects:
+  - Kiyevskaya
+  - Belorusskaya
+  latitude: 55.7613
+  line: '5'
+  longtitude: 37.5774
+  name: Krasnopresnenskaya
+  opened: '1954-03-14'
+  transfers:
+  - line: '7'
+    name: Barrikadnaya
+- connects:
+  - Krasnopresnenskaya
+  - Novoslobodskaya
+  latitude: 55.7764
+  line: '5'
+  longtitude: 37.5844
+  name: Belorusskaya
+  opened: '1952-01-30'
+  transfers:
+  - line: '2'
+    name: Belorusskaya
+- connects:
+  - Belorusskaya
+  - Prospekt Mira
+  latitude: 55.7799
+  line: '5'
+  longtitude: 37.6028
+  name: Novoslobodskaya
+  opened: '1952-01-30'
+  transfers:
+  - line: '9'
+    name: Mendeleyevskaya
+- connects:
+  - Novoslobodskaya
+  - Komsomolskaya
+  latitude: 55.7798
+  line: '5'
+  longtitude: 37.6318
+  name: Prospekt Mira
+  opened: '1952-01-30'
+  transfers:
+  - line: '6'
+    name: Prospekt Mira
+- connects:
+  - Prospekt Mira
+  - Kurskaya
+  latitude: 55.7748
+  line: '5'
+  longtitude: 37.6549
+  name: Komsomolskaya
+  opened: '1952-01-30'
+  transfers:
+  - line: '1'
+    name: Komsomolskaya
+- connects:
+  - Komsomolskaya
+  - Taganskaya
+  latitude: 55.757
+  line: '5'
+  longtitude: 37.6595
+  name: Kurskaya
+  opened: '1950-01-01'
+  transfers:
+  - line: '3'
+    name: Kurskaya
+  - line: '10'
+    name: Chkalovskaya
+- connects:
+  - Kurskaya
+  - Paveletskaya
+  latitude: 55.7418
+  line: '5'
+  longtitude: 37.6517
+  name: Taganskaya
+  opened: '1950-01-01'
+  transfers:
+  - line: '7'
+    name: Taganskaya
+  - line: '8'
+    name: Marksistskaya
+- connects:
+  - Taganskaya
+  - Dobryninskaya
+  latitude: 55.7318
+  line: '5'
+  longtitude: 37.6379
+  name: Paveletskaya
+  opened: '1950-01-01'
+  transfers:
+  - line: '2'
+    name: Paveletskaya
+- connects:
+  - Paveletskaya
+  - Oktyabrskaya
+  latitude: 55.7291
+  line: '5'
+  longtitude: 37.6243
+  name: Dobryninskaya
+  opened: '1950-01-01'
+  transfers:
+  - line: '9'
+    name: Serpukhovskaya
+- connects:
+  - Dobryninskaya
+  - Park Kultury
+  latitude: 55.7297
+  line: '5'
+  longtitude: 37.6091
+  name: Oktyabrskaya
+  opened: '1950-01-01'
+  transfers:
+  - line: '6'
+    name: Oktyabrskaya
+- connects:
+  - Oktyabrskaya
+  latitude: 55.7357
+  line: '5'
+  longtitude: 37.5915
+  name: Park Kultury
+  opened: '1950-01-01'
+  transfers:
+  - line: '1'
+    name: Park Kultury
+- connects:
+  - Babushkinskaya
+  latitude: 55.8872
+  line: '6'
+  longtitude: 37.6613
+  name: Medvedkovo
+  opened: '1978-09-30'
+  transfers: []
+- connects:
+  - Medvedkovo
+  - Sviblovo
+  latitude: 55.8694
+  line: '6'
+  longtitude: 37.6644
+  name: Babushkinskaya
+  opened: '1978-09-30'
+  transfers: []
+- connects:
+  - Babushkinskaya
+  - Botanichesky Sad
+  latitude: 55.8552
+  line: '6'
+  longtitude: 37.6527
+  name: Sviblovo
+  opened: '1978-09-30'
+  transfers: []
+- connects:
+  - Sviblovo
+  - VDNKh
+  latitude: 55.8449
+  line: '6'
+  longtitude: 37.6383
+  name: Botanichesky Sad
+  opened: '1978-09-30'
+  transfers:
+  - line: '14'
+    name: Botanichesky Sad
+- connects:
+  - Botanichesky Sad
+  - Alekseyevskaya
+  latitude: 55.8211
+  line: '6'
+  longtitude: 37.6411
+  name: VDNKh
+  opened: '1958-05-01'
+  transfers:
+  - line: '13'
+    name: Vystavochny Tsentr
+- connects:
+  - VDNKh
+  - Rizhskaya
+  latitude: 55.8088
+  line: '6'
+  longtitude: 37.639
+  name: Alekseyevskaya
+  opened: '1958-05-01'
+  transfers: []
+- connects:
+  - Alekseyevskaya
+  - Prospekt Mira
+  latitude: 55.7936
+  line: '6'
+  longtitude: 37.6362
+  name: Rizhskaya
+  opened: '1958-05-01'
+  transfers: []
+- connects:
+  - Rizhskaya
+  - Sukharevskaya
+  latitude: 55.7812
+  line: '6'
+  longtitude: 37.6318
+  name: Prospekt Mira
+  opened: '1958-05-01'
+  transfers:
+  - line: '5'
+    name: Prospekt Mira
+- connects:
+  - Prospekt Mira
+  - Turgenevskaya
+  latitude: 55.7733
+  line: '6'
+  longtitude: 37.6319
+  name: Sukharevskaya
+  opened: '1972-01-05'
+  transfers: []
+- connects:
+  - Sukharevskaya
+  - Kitay-gorod
+  latitude: 55.7661
+  line: '6'
+  longtitude: 37.6374
+  name: Turgenevskaya
+  opened: '1972-01-05'
+  transfers:
+  - line: '1'
+    name: Chistye Prudy
+  - line: '10'
+    name: Sretensky Bulvar
+- connects:
+  - Turgenevskaya
+  - Tretyakovskaya
+  latitude: 55.7553
+  line: '6'
+  longtitude: 37.6333
+  name: Kitay-gorod
+  opened: '1971-01-03'
+  transfers:
+  - line: '7'
+    name: Kitay-gorod
+- connects:
+  - Kitay-gorod
+  - Oktyabrskaya
+  latitude: 55.7412
+  line: '6'
+  longtitude: 37.6274
+  name: Tretyakovskaya
+  opened: '1971-01-03'
+  transfers:
+  - line: '8'
+    name: Tretyakovskaya
+  - line: '2'
+    name: Novokuznetskaya
+- connects:
+  - Tretyakovskaya
+  - Shabolovskaya
+  latitude: 55.7306
+  line: '6'
+  longtitude: 37.6112
+  name: Oktyabrskaya
+  opened: '1962-10-13'
+  transfers:
+  - line: '5'
+    name: Oktyabrskaya
+- connects:
+  - Oktyabrskaya
+  - Leninsky Prospekt
+  latitude: 55.7198
+  line: '6'
+  longtitude: 37.6083
+  name: Shabolovskaya
+  opened: '1980-11-06'
+  transfers: []
+- connects:
+  - Shabolovskaya
+  - Akademicheskaya
+  latitude: 55.7077
+  line: '6'
+  longtitude: 37.5861
+  name: Leninsky Prospekt
+  opened: '1962-10-13'
+  transfers:
+  - line: '14'
+    name: Ploshchad Gagarina
+- connects:
+  - Leninsky Prospekt
+  - Profsoyuznaya
+  latitude: 55.6877
+  line: '6'
+  longtitude: 37.5733
+  name: Akademicheskaya
+  opened: '1962-10-13'
+  transfers: []
+- connects:
+  - Akademicheskaya
+  - Novye Cheryomushki
+  latitude: 55.678
+  line: '6'
+  longtitude: 37.5627
+  name: Profsoyuznaya
+  opened: '1962-10-13'
+  transfers: []
+- connects:
+  - Profsoyuznaya
+  - Kaluzhskaya
+  latitude: 55.6702
+  line: '6'
+  longtitude: 37.5544
+  name: Novye Cheryomushki
+  opened: '1962-10-13'
+  transfers: []
+- connects:
+  - Novye Cheryomushki
+  - Belyayevo
+  latitude: 55.6571
+  line: '6'
+  longtitude: 37.5405
+  name: Kaluzhskaya
+  opened: '1974-08-12'
+  transfers:
+  - line: '11'
+    name: Vorontsovskaya
+- connects:
+  - Kaluzhskaya
+  - Konkovo
+  latitude: 55.6428
+  line: '6'
+  longtitude: 37.5257
+  name: Belyayevo
+  opened: '1974-08-12'
+  transfers: []
+- connects:
+  - Belyayevo
+  - Tyoply Stan
+  latitude: 55.6333
+  line: '6'
+  longtitude: 37.5188
+  name: Konkovo
+  opened: '1987-11-06'
+  transfers: []
+- connects:
+  - Konkovo
+  - Yasenevo
+  latitude: 55.6191
+  line: '6'
+  longtitude: 37.5082
+  name: Tyoply Stan
+  opened: '1987-11-06'
+  transfers: []
+- connects:
+  - Tyoply Stan
+  - Novoyasenevskaya
+  latitude: 55.6063
+  line: '6'
+  longtitude: 37.5333
+  name: Yasenevo
+  opened: '1990-01-17'
+  transfers: []
+- connects:
+  - Yasenevo
+  latitude: 55.601
+  line: '6'
+  longtitude: 37.5541
+  name: Novoyasenevskaya
+  opened: '1990-01-17'
+  transfers:
+  - line: '12'
+    name: Bittsevsky Park
+- connects:
+  - Skhodnenskaya
+  latitude: 55.8607
+  line: '7'
+  longtitude: 37.4364
+  name: Planernaya
+  opened: '1975-12-30'
+  transfers: []
+- connects:
+  - Planernaya
+  - Tushinskaya
+  latitude: 55.8505
+  line: '7'
+  longtitude: 37.4396
+  name: Skhodnenskaya
+  opened: '1975-12-30'
+  transfers: []
+- connects:
+  - Skhodnenskaya
+  - Spartak
+  latitude: 55.8267
+  line: '7'
+  longtitude: 37.4368
+  name: Tushinskaya
+  opened: '1975-12-30'
+  transfers: []
+- connects:
+  - Tushinskaya
+  - Shchukinskaya
+  latitude: 55.8182
+  line: '7'
+  longtitude: 37.4352
+  name: Spartak
+  opened: '2014-08-27'
+  transfers: []
+- connects:
+  - Spartak
+  - Oktyabrskoye Pole
+  latitude: 55.8086
+  line: '7'
+  longtitude: 37.4641
+  name: Shchukinskaya
+  opened: '1975-12-30'
+  transfers: []
+- connects:
+  - Shchukinskaya
+  - Polezhayevskaya
+  latitude: 55.7935
+  line: '7'
+  longtitude: 37.4935
+  name: Oktyabrskoye Pole
+  opened: '1972-12-30'
+  transfers:
+  - line: '14'
+    name: Panfilovskaya
+  - line: '14'
+    name: Zorge
+- connects:
+  - Oktyabrskoye Pole
+  - Begovaya
+  latitude: 55.7775
+  line: '7'
+  longtitude: 37.5192
+  name: Polezhayevskaya
+  opened: '1972-12-30'
+  transfers:
+  - line: '11'
+    name: Khoroshyovskaya
+  - line: '14'
+    name: Khoroshyovo
+- connects:
+  - Polezhayevskaya
+  - Ulitsa 1905 Goda
+  latitude: 55.7738
+  line: '7'
+  longtitude: 37.5468
+  name: Begovaya
+  opened: '1972-12-30'
+  transfers: []
+- connects:
+  - Begovaya
+  - Barrikadnaya
+  latitude: 55.765
+  line: '7'
+  longtitude: 37.5613
+  name: Ulitsa 1905 Goda
+  opened: '1972-12-30'
+  transfers: []
+- connects:
+  - Ulitsa 1905 Goda
+  - Pushkinskaya
+  latitude: 55.7612
+  line: '7'
+  longtitude: 37.5795
+  name: Barrikadnaya
+  opened: '1972-12-30'
+  transfers:
+  - line: '5'
+    name: Krasnopresnenskaya
+- connects:
+  - Barrikadnaya
+  - Kuznetsky Most
+  latitude: 55.765
+  line: '7'
+  longtitude: 37.6079
+  name: Pushkinskaya
+  opened: '1975-12-17'
+  transfers:
+  - line: '2'
+    name: Tverskaya
+  - line: '9'
+    name: Chekhovskaya
+- connects:
+  - Pushkinskaya
+  - Kitay-gorod
+  latitude: 55.7606
+  line: '7'
+  longtitude: 37.6259
+  name: Kuznetsky Most
+  opened: '1975-12-17'
+  transfers:
+  - line: '1'
+    name: Lubyanka
+- connects:
+  - Kuznetsky Most
+  - Taganskaya
+  latitude: 55.7553
+  line: '7'
+  longtitude: 37.6333
+  name: Kitay-gorod
+  opened: '1971-01-03'
+  transfers:
+  - line: '6'
+    name: Kitay-gorod
+- connects:
+  - Kitay-gorod
+  - Proletarskaya
+  latitude: 55.7402
+  line: '7'
+  longtitude: 37.6522
+  name: Taganskaya
+  opened: '1966-12-31'
+  transfers:
+  - line: '5'
+    name: Taganskaya
+  - line: '8'
+    name: Marksistskaya
+- connects:
+  - Taganskaya
+  - Volgogradsky Prospekt
+  latitude: 55.7319
+  line: '7'
+  longtitude: 37.6659
+  name: Proletarskaya
+  opened: '1966-12-31'
+  transfers:
+  - line: '10'
+    name: Krestyanskaya Zastava
+- connects:
+  - Proletarskaya
+  - Tekstilshchiki
+  latitude: 55.7253
+  line: '7'
+  longtitude: 37.6869
+  name: Volgogradsky Prospekt
+  opened: '1966-12-31'
+  transfers: []
+- connects:
+  - Volgogradsky Prospekt
+  - Kuzminki
+  latitude: 55.7088
+  line: '7'
+  longtitude: 37.7316
+  name: Tekstilshchiki
+  opened: '1966-12-31'
+  transfers: []
+- connects:
+  - Tekstilshchiki
+  - Ryazansky Prospekt
+  latitude: 55.7056
+  line: '7'
+  longtitude: 37.7656
+  name: Kuzminki
+  opened: '1966-12-31'
+  transfers: []
+- connects:
+  - Kuzminki
+  - Vykhino
+  latitude: 55.717
+  line: '7'
+  longtitude: 37.7933
+  name: Ryazansky Prospekt
+  opened: '1966-12-31'
+  transfers: []
+- connects:
+  - Ryazansky Prospekt
+  - Lermontovsky Prospekt
+  latitude: 55.7156
+  line: '7'
+  longtitude: 37.8181
+  name: Vykhino
+  opened: '1966-12-31'
+  transfers: []
+- connects:
+  - Vykhino
+  - Zhulebino
+  latitude: 55.7013
+  line: '7'
+  longtitude: 37.8525
+  name: Lermontovsky Prospekt
+  opened: '2013-11-09'
+  transfers:
+  - line: '15'
+    name: Kosino
+- connects:
+  - Lermontovsky Prospekt
+  - Kotelniki
+  latitude: 55.6855
+  line: '7'
+  longtitude: 37.8563
+  name: Zhulebino
+  opened: '2013-11-09'
+  transfers: []
+- connects:
+  - Zhulebino
+  latitude: 55.6743
+  line: '7'
+  longtitude: 37.8582
+  name: Kotelniki
+  opened: '2015-09-21'
+  transfers: []
+- connects:
+  - Novoperedelkino
+  latitude: 55.6339
+  line: 8A
+  longtitude: 37.3347
+  name: Rasskazovka
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Rasskazovka
+  - Borovskoye Shosse
+  latitude: 55.6396
+  line: 8A
+  longtitude: 37.3552
+  name: Novoperedelkino
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Novoperedelkino
+  - Solntsevo
+  latitude: 55.6476
+  line: 8A
+  longtitude: 37.3701
+  name: Borovskoye Shosse
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Borovskoye Shosse
+  - Govorovo
+  latitude: 55.6493
+  line: 8A
+  longtitude: 37.3909
+  name: Solntsevo
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Solntsevo
+  - Ozyornaya
+  latitude: 55.6595
+  line: 8A
+  longtitude: 37.4172
+  name: Govorovo
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Govorovo
+  - Michurinsky Prospekt
+  latitude: 55.6709
+  line: 8A
+  longtitude: 37.4491
+  name: Ozyornaya
+  opened: '2018-08-30'
+  transfers: []
+- connects:
+  - Ozyornaya
+  - Ramenki
+  latitude: 55.6896
+  line: 8A
+  longtitude: 37.4833
+  name: Michurinsky Prospekt
+  opened: '2018-08-30'
+  transfers:
+  - line: '11'
+    name: Michurinsky Prospekt
+- connects:
+  - Michurinsky Prospekt
+  - Lomonosovsky Prospekt
+  latitude: 55.6975
+  line: 8A
+  longtitude: 37.4984
+  name: Ramenki
+  opened: '2017-03-16'
+  transfers: []
+- connects:
+  - Ramenki
+  - Minskaya
+  latitude: 55.7069
+  line: 8A
+  longtitude: 37.5156
+  name: Lomonosovsky Prospekt
+  opened: '2017-03-16'
+  transfers: []
+- connects:
+  - Lomonosovsky Prospekt
+  - Park Pobedy
+  latitude: 55.7246
+  line: 8A
+  longtitude: 37.497
+  name: Minskaya
+  opened: '2017-03-16'
+  transfers: []
+- connects:
+  - Minskaya
+  - Delovoy Tsentr
+  latitude: 55.7362
+  line: 8A
+  longtitude: 37.5182
+  name: Park Pobedy
+  opened: '2003-05-06'
+  transfers:
+  - line: '3'
+    name: Park Pobedy
+- connects:
+  - Park Pobedy
+  latitude: 55.7475
+  line: 8A
+  longtitude: 37.5319
+  name: Delovoy Tsentr
+  opened: '2014-01-31'
+  transfers: []
+- connects:
+  - Marksistskaya
+  latitude: 55.7412
+  line: '8'
+  longtitude: 37.6274
+  name: Tretyakovskaya
+  opened: '1986-01-25'
+  transfers:
+  - line: '6'
+    name: Tretyakovskaya
+  - line: '2'
+    name: Novokuznetskaya
+- connects:
+  - Tretyakovskaya
+  - Ploshchad Ilyicha
+  latitude: 55.7411
+  line: '8'
+  longtitude: 37.6543
+  name: Marksistskaya
+  opened: '1979-12-30'
+  transfers:
+  - line: '5'
+    name: Taganskaya
+  - line: '7'
+    name: Taganskaya
+- connects:
+  - Marksistskaya
+  - Aviamotornaya
+  latitude: 55.7472
+  line: '8'
+  longtitude: 37.6824
+  name: Ploshchad Ilyicha
+  opened: '1979-12-30'
+  transfers:
+  - line: '10'
+    name: Rimskaya
+- connects:
+  - Ploshchad Ilyicha
+  - Shosse Entuziastov
+  latitude: 55.7524
+  line: '8'
+  longtitude: 37.7191
+  name: Aviamotornaya
+  opened: '1979-12-30'
+  transfers:
+  - line: '15'
+    name: Aviamotornaya
+- connects:
+  - Aviamotornaya
+  - Perovo
+  latitude: 55.7576
+  line: '8'
+  longtitude: 37.75
+  name: Shosse Entuziastov
+  opened: '1979-12-30'
+  transfers:
+  - line: '14'
+    name: Shosse Entuziastov
+- connects:
+  - Shosse Entuziastov
+  - Novogireyevo
+  latitude: 55.7511
+  line: '8'
+  longtitude: 37.7866
+  name: Perovo
+  opened: '1979-12-30'
+  transfers: []
+- connects:
+  - Perovo
+  - Novokosino
+  latitude: 55.7517
+  line: '8'
+  longtitude: 37.8166
+  name: Novogireyevo
+  opened: '1979-12-30'
+  transfers: []
+- connects:
+  - Novogireyevo
+  latitude: 55.7451
+  line: '8'
+  longtitude: 37.8638
+  name: Novokosino
+  opened: '2012-08-30'
+  transfers: []
+- connects:
+  - Bibirevo
+  latitude: 55.898
+  line: '9'
+  longtitude: 37.587
+  name: Altufyevo
+  opened: '1994-07-15'
+  transfers: []
+- connects:
+  - Altufyevo
+  - Otradnoye
+  latitude: 55.8838
+  line: '9'
+  longtitude: 37.6034
+  name: Bibirevo
+  opened: '1992-12-31'
+  transfers: []
+- connects:
+  - Bibirevo
+  - Vladykino
+  latitude: 55.8633
+  line: '9'
+  longtitude: 37.6047
+  name: Otradnoye
+  opened: '1991-03-01'
+  transfers: []
+- connects:
+  - Otradnoye
+  - Petrovsko-Razumovskaya
+  latitude: 55.8473
+  line: '9'
+  longtitude: 37.5899
+  name: Vladykino
+  opened: '1991-03-01'
+  transfers:
+  - line: '14'
+    name: Vladykino
+- connects:
+  - Vladykino
+  - Timiryazevskaya
+  latitude: 55.8351
+  line: '9'
+  longtitude: 37.5745
+  name: Petrovsko-Razumovskaya
+  opened: '1991-03-01'
+  transfers:
+  - line: '10'
+    name: Petrovsko-Razumovskaya
+- connects:
+  - Petrovsko-Razumovskaya
+  - Dmitrovskaya
+  latitude: 55.8176
+  line: '9'
+  longtitude: 37.5765
+  name: Timiryazevskaya
+  opened: '1991-03-01'
+  transfers:
+  - line: '13'
+    name: Timiryazevskaya
+- connects:
+  - Timiryazevskaya
+  - Savyolovskaya
+  latitude: 55.8069
+  line: '9'
+  longtitude: 37.5817
+  name: Dmitrovskaya
+  opened: '1991-03-01'
+  transfers: []
+- connects:
+  - Dmitrovskaya
+  - Mendeleyevskaya
+  latitude: 55.7927
+  line: '9'
+  longtitude: 37.5885
+  name: Savyolovskaya
+  opened: '1988-12-31'
+  transfers:
+  - line: '11'
+    name: Savyolovskaya
+- connects:
+  - Savyolovskaya
+  - Tsvetnoy Bulvar
+  latitude: 55.781
+  line: '9'
+  longtitude: 37.6011
+  name: Mendeleyevskaya
+  opened: '1988-12-31'
+  transfers:
+  - line: '5'
+    name: Novoslobodskaya
+- connects:
+  - Mendeleyevskaya
+  - Chekhovskaya
+  latitude: 55.7708
+  line: '9'
+  longtitude: 37.6187
+  name: Tsvetnoy Bulvar
+  opened: '1988-12-31'
+  transfers:
+  - line: '10'
+    name: Trubnaya
+- connects:
+  - Tsvetnoy Bulvar
+  - Borovitskaya
+  latitude: 55.7644
+  line: '9'
+  longtitude: 37.6097
+  name: Chekhovskaya
+  opened: '1987-12-31'
+  transfers:
+  - line: '2'
+    name: Tverskaya
+  - line: '7'
+    name: Pushkinskaya
+- connects:
+  - Chekhovskaya
+  - Polyanka
+  latitude: 55.7511
+  line: '9'
+  longtitude: 37.6072
+  name: Borovitskaya
+  opened: '1986-01-23'
+  transfers:
+  - line: '1'
+    name: Biblioteka Imeni Lenina
+  - line: '3'
+    name: Arbatskaya
+  - line: '4'
+    name: Aleksandrovsky Sad
+- connects:
+  - Borovitskaya
+  - Serpukhovskaya
+  latitude: 55.7379
+  line: '9'
+  longtitude: 37.618
+  name: Polyanka
+  opened: '1986-01-23'
+  transfers: []
+- connects:
+  - Polyanka
+  - Tulskaya
+  latitude: 55.728
+  line: '9'
+  longtitude: 37.6246
+  name: Serpukhovskaya
+  opened: '1983-11-08'
+  transfers:
+  - line: '5'
+    name: Dobryninskaya
+- connects:
+  - Serpukhovskaya
+  - Nagatinskaya
+  latitude: 55.7087
+  line: '9'
+  longtitude: 37.6229
+  name: Tulskaya
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Tulskaya
+  - Nagornaya
+  latitude: 55.683
+  line: '9'
+  longtitude: 37.6224
+  name: Nagatinskaya
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Nagatinskaya
+  - Nakhimovsky Prospekt
+  latitude: 55.6724
+  line: '9'
+  longtitude: 37.6104
+  name: Nagornaya
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Nagornaya
+  - Sevastopolskaya
+  latitude: 55.6627
+  line: '9'
+  longtitude: 37.6055
+  name: Nakhimovsky Prospekt
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Nakhimovsky Prospekt
+  - Chertanovskaya
+  latitude: 55.6524
+  line: '9'
+  longtitude: 37.5984
+  name: Sevastopolskaya
+  opened: '1983-11-08'
+  transfers:
+  - line: '11'
+    name: Kakhovskaya
+- connects:
+  - Sevastopolskaya
+  - Yuzhnaya
+  latitude: 55.6405
+  line: '9'
+  longtitude: 37.6067
+  name: Chertanovskaya
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Chertanovskaya
+  - Prazhskaya
+  latitude: 55.6224
+  line: '9'
+  longtitude: 37.609
+  name: Yuzhnaya
+  opened: '1983-11-08'
+  transfers: []
+- connects:
+  - Yuzhnaya
+  - Ulitsa Akademika Yangelya
+  latitude: 55.6124
+  line: '9'
+  longtitude: 37.6044
+  name: Prazhskaya
+  opened: '1985-11-06'
+  transfers: []
+- connects:
+  - Prazhskaya
+  - Annino
+  latitude: 55.5949
+  line: '9'
+  longtitude: 37.6004
+  name: Ulitsa Akademika Yangelya
+  opened: '2000-08-31'
+  transfers: []
+- connects:
+  - Ulitsa Akademika Yangelya
+  - Bulvar Dmitriya Donskogo
+  latitude: 55.5828
+  line: '9'
+  longtitude: 37.5966
+  name: Annino
+  opened: '2001-12-12'
+  transfers: []
+- connects:
+  - Annino
+  latitude: 55.5693
+  line: '9'
+  longtitude: 37.5769
+  name: Bulvar Dmitriya Donskogo
+  opened: '2002-12-26'
+  transfers:
+  - line: '12'
+    name: Ulitsa Starokachalovskaya
+- connects:
+  - Verkhnie Likhobory
+  latitude: 55.865
+  line: '10'
+  longtitude: 37.548333
+  name: Seligerskaya
+  opened: '2018-03-22'
+  transfers: []
+- connects:
+  - Seligerskaya
+  - Okruzhnaya
+  latitude: 55.855833
+  line: '10'
+  longtitude: 37.561111
+  name: Verkhnie Likhobory
+  opened: '2018-03-22'
+  transfers: []
+- connects:
+  - Verkhnie Likhobory
+  - Petrovsko-Razumovskaya
+  latitude: 55.846
+  line: '10'
+  longtitude: 37.57425
+  name: Okruzhnaya
+  opened: '2018-03-22'
+  transfers:
+  - line: '14'
+    name: Okruzhnaya
+- connects:
+  - Okruzhnaya
+  - Fonvizinskaya
+  latitude: 55.8351
+  line: '10'
+  longtitude: 37.5745
+  name: Petrovsko-Razumovskaya
+  opened: '1991-03-01'
+  transfers:
+  - line: '9'
+    name: Petrovsko-Razumovskaya
+- connects:
+  - Petrovsko-Razumovskaya
+  - Butyrskaya
+  latitude: 55.8228
+  line: '10'
+  longtitude: 37.5881
+  name: Fonvizinskaya
+  opened: '2016-09-16'
+  transfers:
+  - line: '13'
+    name: Ulitsa Milashenkova
+- connects:
+  - Fonvizinskaya
+  - Maryina Roshcha
+  latitude: 55.8133
+  line: '10'
+  longtitude: 37.6028
+  name: Butyrskaya
+  opened: '2016-09-16'
+  transfers: []
+- connects:
+  - Butyrskaya
+  - Dostoyevskaya
+  latitude: 55.7954
+  line: '10'
+  longtitude: 37.6162
+  name: Maryina Roshcha
+  opened: '2010-06-19'
+  transfers: []
+- connects:
+  - Maryina Roshcha
+  - Trubnaya
+  latitude: 55.7816
+  line: '10'
+  longtitude: 37.6151
+  name: Dostoyevskaya
+  opened: '2010-06-19'
+  transfers: []
+- connects:
+  - Dostoyevskaya
+  - Sretensky Bulvar
+  latitude: 55.7688
+  line: '10'
+  longtitude: 37.62
+  name: Trubnaya
+  opened: '2007-08-30'
+  transfers:
+  - line: '9'
+    name: Tsvetnoy Bulvar
+- connects:
+  - Trubnaya
+  - Chkalovskaya
+  latitude: 55.7668
+  line: '10'
+  longtitude: 37.6392
+  name: Sretensky Bulvar
+  opened: '2007-12-29'
+  transfers:
+  - line: '1'
+    name: Chistye Prudy
+  - line: '6'
+    name: Turgenevskaya
+- connects:
+  - Sretensky Bulvar
+  - Rimskaya
+  latitude: 55.7565
+  line: '10'
+  longtitude: 37.6573
+  name: Chkalovskaya
+  opened: '1995-12-28'
+  transfers:
+  - line: '3'
+    name: Kurskaya
+  - line: '5'
+    name: Kurskaya
+- connects:
+  - Chkalovskaya
+  - Krestyanskaya Zastava
+  latitude: 55.7463
+  line: '10'
+  longtitude: 37.6819
+  name: Rimskaya
+  opened: '1995-12-28'
+  transfers:
+  - line: '8'
+    name: Ploshchad Ilyicha
+- connects:
+  - Rimskaya
+  - Dubrovka
+  latitude: 55.7331
+  line: '10'
+  longtitude: 37.6673
+  name: Krestyanskaya Zastava
+  opened: '1995-12-28'
+  transfers:
+  - line: '7'
+    name: Proletarskaya
+- connects:
+  - Krestyanskaya Zastava
+  - Kozhukhovskaya
+  latitude: 55.7186
+  line: '10'
+  longtitude: 37.676
+  name: Dubrovka
+  opened: '1999-12-11'
+  transfers:
+  - line: '14'
+    name: Dubrovka
+- connects:
+  - Dubrovka
+  - Pechatniki
+  latitude: 55.7074
+  line: '10'
+  longtitude: 37.6851
+  name: Kozhukhovskaya
+  opened: '1995-12-28'
+  transfers:
+  - line: '14'
+    name: Dubrovka
+- connects:
+  - Kozhukhovskaya
+  - Volzhskaya
+  latitude: 55.6934
+  line: '10'
+  longtitude: 37.727
+  name: Pechatniki
+  opened: '1995-12-28'
+  transfers: []
+- connects:
+  - Pechatniki
+  - Lyublino
+  latitude: 55.6909
+  line: '10'
+  longtitude: 37.753
+  name: Volzhskaya
+  opened: '1995-12-28'
+  transfers: []
+- connects:
+  - Volzhskaya
+  - Bratislavskaya
+  latitude: 55.6758
+  line: '10'
+  longtitude: 37.7618
+  name: Lyublino
+  opened: '1996-12-25'
+  transfers: []
+- connects:
+  - Lyublino
+  - Maryino
+  latitude: 55.6597
+  line: '10'
+  longtitude: 37.7505
+  name: Bratislavskaya
+  opened: '1996-12-25'
+  transfers: []
+- connects:
+  - Bratislavskaya
+  - Borisovo
+  latitude: 55.65
+  line: '10'
+  longtitude: 37.7431
+  name: Maryino
+  opened: '1996-12-25'
+  transfers: []
+- connects:
+  - Maryino
+  - Shipilovskaya
+  latitude: 55.6334
+  line: '10'
+  longtitude: 37.7436
+  name: Borisovo
+  opened: '2011-12-02'
+  transfers: []
+- connects:
+  - Borisovo
+  - Zyablikovo
+  latitude: 55.6211
+  line: '10'
+  longtitude: 37.7437
+  name: Shipilovskaya
+  opened: '2011-12-02'
+  transfers: []
+- connects:
+  - Shipilovskaya
+  latitude: 55.6124
+  line: '10'
+  longtitude: 37.7453
+  name: Zyablikovo
+  opened: '2011-12-02'
+  transfers:
+  - line: '2'
+    name: Krasnogvardeyskaya
+- connects:
+  - Kakhovskaya
+  latitude: 55.6533
+  line: '11'
+  longtitude: 37.6194
+  name: Varshavskaya
+  opened: '1969-08-11'
+  transfers: []
+- connects:
+  - Varshavskaya
+  - Zyuzino
+  latitude: 55.653
+  line: '11'
+  longtitude: 37.5983
+  name: Kakhovskaya
+  opened: '1969-08-11'
+  transfers:
+  - line: '9'
+    name: Sevastopolskaya
+- connects:
+  - Kakhovskaya
+  - Vorontsovskaya
+  latitude: 55.6563
+  line: '11'
+  longtitude: 37.5721
+  name: Zyuzino
+  opened: '2021-12-07'
+  transfers: []
+- connects:
+  - Zyuzino
+  - Novatorskaya
+  latitude: 55.6587
+  line: '11'
+  longtitude: 37.5399
+  name: Vorontsovskaya
+  opened: '2021-12-07'
+  transfers:
+  - line: '6'
+    name: Kaluzhskaya
+- connects:
+  - Vorontsovskaya
+  - Prospekt Vernadskogo
+  latitude: 55.6701
+  line: '11'
+  longtitude: 37.5218
+  name: Novatorskaya
+  opened: '2021-12-07'
+  transfers: []
+- connects:
+  - Novatorskaya
+  - Michurinsky Prospekt
+  latitude: 55.6778
+  line: '11'
+  longtitude: 37.505
+  name: Prospekt Vernadskogo
+  opened: '2021-12-07'
+  transfers:
+  - line: '1'
+    name: Prospekt Vernadskogo
+- connects:
+  - Prospekt Vernadskogo
+  - Aminyevskaya
+  latitude: 55.6884
+  line: '11'
+  longtitude: 37.4851
+  name: Michurinsky Prospekt
+  opened: '2021-12-07'
+  transfers:
+  - line: 8A
+    name: Michurinsky Prospekt
+- connects:
+  - Michurinsky Prospekt
+  - Davydkovo
+  latitude: 55.6972
+  line: '11'
+  longtitude: 37.4642
+  name: Aminyevskaya
+  opened: '2021-12-07'
+  transfers: []
+- connects:
+  - Aminyevskaya
+  - Kuntsevskaya
+  latitude: 55.7153
+  line: '11'
+  longtitude: 37.4517
+  name: Davydkovo
+  opened: '2021-12-07'
+  transfers: []
+- connects:
+  - Davydkovo
+  - Terekhovo
+  latitude: 55.7304
+  line: '11'
+  longtitude: 37.4457
+  name: Kuntsevskaya
+  opened: '2021-12-07'
+  transfers:
+  - line: '3'
+    name: Kuntsevskaya
+  - line: '4'
+    name: Kuntsevskaya
+- connects:
+  - Kuntsevskaya
+  - Mnyovniki
+  latitude: 55.7492
+  line: '11'
+  longtitude: 37.4606
+  name: Terekhovo
+  opened: '2021-12-07'
+  transfers: []
+- connects:
+  - Terekhovo
+  - Narodnoye Opolcheniye
+  latitude: 55.7585
+  line: '11'
+  longtitude: 37.4708
+  name: Mnyovniki
+  opened: '2021-04-01'
+  transfers: []
+- connects:
+  - Mnyovniki
+  - Khoroshyovskaya
+  latitude: 55.7738
+  line: '11'
+  longtitude: 37.4844
+  name: Narodnoye Opolcheniye
+  opened: '2021-04-01'
+  transfers: []
+- connects:
+  - Narodnoye Opolcheniye
+  - CSKA
+  latitude: 55.7768
+  line: '11'
+  longtitude: 37.5207
+  name: Khoroshyovskaya
+  opened: '2018-02-26'
+  transfers:
+  - line: '7'
+    name: Polezhayevskaya
+  - line: '14'
+    name: Khoroshyovo
+- connects:
+  - Khoroshyovskaya
+  - Petrovsky Park
+  latitude: 55.7866
+  line: '11'
+  longtitude: 37.5333
+  name: CSKA
+  opened: '2018-02-26'
+  transfers: []
+- connects:
+  - CSKA
+  - Savyolovskaya
+  latitude: 55.7918
+  line: '11'
+  longtitude: 37.5571
+  name: Petrovsky Park
+  opened: '2018-02-26'
+  transfers:
+  - line: '2'
+    name: Dinamo
+- connects:
+  - Petrovsky Park
+  latitude: 55.7936
+  line: '11'
+  longtitude: 37.588
+  name: Savyolovskaya
+  opened: '2018-12-30'
+  transfers:
+  - line: '9'
+    name: Savyolovskaya
+- connects:
+  - Lesoparkovaya
+  latitude: 55.6004
+  line: '12'
+  longtitude: 37.5562
+  name: Bittsevsky Park
+  opened: '2014-02-27'
+  transfers:
+  - line: '6'
+    name: Novoyasenevskaya
+- connects:
+  - Bittsevsky Park
+  - Ulitsa Starokachalovskaya
+  latitude: 55.5821
+  line: '12'
+  longtitude: 37.5769
+  name: Lesoparkovaya
+  opened: '2014-02-27'
+  transfers: []
+- connects:
+  - Lesoparkovaya
+  - Ulitsa Skobelevskaya
+  latitude: 55.569
+  line: '12'
+  longtitude: 37.5767
+  name: Ulitsa Starokachalovskaya
+  opened: '2003-12-27'
+  transfers:
+  - line: '9'
+    name: Bulvar Dmitriya Donskogo
+- connects:
+  - Ulitsa Starokachalovskaya
+  - Bulvar Admirala Ushakova
+  latitude: 55.5481
+  line: '12'
+  longtitude: 37.5546
+  name: Ulitsa Skobelevskaya
+  opened: '2003-12-27'
+  transfers: []
+- connects:
+  - Ulitsa Skobelevskaya
+  - Ulitsa Gorchakova
+  latitude: 55.5455
+  line: '12'
+  longtitude: 37.543
+  name: Bulvar Admirala Ushakova
+  opened: '2003-12-27'
+  transfers: []
+- connects:
+  - Bulvar Admirala Ushakova
+  - Buninskaya Alleya
+  latitude: 55.5418
+  line: '12'
+  longtitude: 37.5308
+  name: Ulitsa Gorchakova
+  opened: '2003-12-27'
+  transfers: []
+- connects:
+  - Ulitsa Gorchakova
+  latitude: 55.538
+  line: '12'
+  longtitude: 37.5158
+  name: Buninskaya Alleya
+  opened: '2003-12-27'
+  transfers: []
+- connects:
+  - Ulitsa Milashenkova
+  latitude: 55.819
+  line: '13'
+  longtitude: 37.5789
+  name: Timiryazevskaya
+  opened: '2004-11-20'
+  transfers:
+  - line: '9'
+    name: Timiryazevskaya
+- connects:
+  - Timiryazevskaya
+  - Teletsentr
+  latitude: 55.8218
+  line: '13'
+  longtitude: 37.5911
+  name: Ulitsa Milashenkova
+  opened: '2004-11-20'
+  transfers:
+  - line: '10'
+    name: Fonvizinskaya
+- connects:
+  - Ulitsa Milashenkova
+  - Ulitsa Akademika Korolyova
+  latitude: 55.8218
+  line: '13'
+  longtitude: 37.6089
+  name: Teletsentr
+  opened: '2004-11-20'
+  transfers: []
+- connects:
+  - Teletsentr
+  - Vystavochny Tsentr
+  latitude: 55.8218
+  line: '13'
+  longtitude: 37.6269
+  name: Ulitsa Akademika Korolyova
+  opened: '2004-11-20'
+  transfers: []
+- connects:
+  - Ulitsa Akademika Korolyova
+  - Ulitsa Sergeya Eyzenshteyna
+  latitude: 55.824
+  line: '13'
+  longtitude: 37.6383
+  name: Vystavochny Tsentr
+  opened: '2004-11-20'
+  transfers:
+  - line: '6'
+    name: VDNKh
+- connects:
+  - Vystavochny Tsentr
+  latitude: 55.8292
+  line: '13'
+  longtitude: 37.6449
+  name: Ulitsa Sergeya Eyzenshteyna
+  opened: '2004-11-20'
+  transfers: []
+- connects:
+  - Vladykino
+  latitude: 55.8472
+  line: '14'
+  longtitude: 37.5694
+  name: Okruzhnaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '10'
+    name: Okruzhnaya
+- connects:
+  - Okruzhnaya
+  - Botanichesky Sad
+  latitude: 55.8476
+  line: '14'
+  longtitude: 37.593
+  name: Vladykino
+  opened: '2016-09-10'
+  transfers:
+  - line: '9'
+    name: Vladykino
+- connects:
+  - Vladykino
+  - Rostokino
+  latitude: 55.846
+  line: '14'
+  longtitude: 37.6413
+  name: Botanichesky Sad
+  opened: '2016-09-10'
+  transfers:
+  - line: '6'
+    name: Botanichesky Sad
+- connects:
+  - Botanichesky Sad
+  - Belokamennaya
+  latitude: 55.84
+  line: '14'
+  longtitude: 37.6653
+  name: Rostokino
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Rostokino
+  - Bulvar Rokossovskogo
+  latitude: 55.83
+  line: '14'
+  longtitude: 37.7006
+  name: Belokamennaya
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Belokamennaya
+  - Lokomotiv
+  latitude: 55.8172
+  line: '14'
+  longtitude: 37.7369
+  name: Bulvar Rokossovskogo
+  opened: '2016-09-10'
+  transfers:
+  - line: '1'
+    name: Bulvar Rokossovskogo
+- connects:
+  - Bulvar Rokossovskogo
+  - Izmaylovo
+  latitude: 55.8039
+  line: '14'
+  longtitude: 37.746
+  name: Lokomotiv
+  opened: '2016-09-10'
+  transfers:
+  - line: '1'
+    name: Cherkizovskaya
+- connects:
+  - Lokomotiv
+  - Sokolinaya Gora
+  latitude: 55.7886
+  line: '14'
+  longtitude: 37.7428
+  name: Izmaylovo
+  opened: '2016-09-10'
+  transfers:
+  - line: '3'
+    name: Partizanskaya
+- connects:
+  - Izmaylovo
+  - Shosse Entuziastov
+  latitude: 55.7714
+  line: '14'
+  longtitude: 37.7451
+  name: Sokolinaya Gora
+  opened: '2016-10-11'
+  transfers: []
+- connects:
+  - Sokolinaya Gora
+  - Andronovka
+  latitude: 55.759
+  line: '14'
+  longtitude: 37.7463
+  name: Shosse Entuziastov
+  opened: '2016-09-10'
+  transfers:
+  - line: '8'
+    name: Shosse Entuziastov
+- connects:
+  - Shosse Entuziastov
+  - Nizhegorodskaya
+  latitude: 55.7411
+  line: '14'
+  longtitude: 37.7344
+  name: Andronovka
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Andronovka
+  - Novokhokhlovskaya
+  latitude: 55.7322
+  line: '14'
+  longtitude: 37.7282
+  name: Nizhegorodskaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '15'
+    name: Nizhegorodskaya
+- connects:
+  - Nizhegorodskaya
+  - Ugreshskaya
+  latitude: 55.7239
+  line: '14'
+  longtitude: 37.7161
+  name: Novokhokhlovskaya
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Novokhokhlovskaya
+  - Dubrovka
+  latitude: 55.7183
+  line: '14'
+  longtitude: 37.6978
+  name: Ugreshskaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '7'
+    name: Volgogradsky Prospekt
+- connects:
+  - Ugreshskaya
+  - Avtozavodskaya
+  latitude: 55.7183
+  line: '14'
+  longtitude: 37.6978
+  name: Dubrovka
+  opened: '2016-10-11'
+  transfers:
+  - line: '10'
+    name: Dubrovka
+  - line: '10'
+    name: Kozhukhovskaya
+- connects:
+  - Dubrovka
+  - ZIL
+  latitude: 55.7063
+  line: '14'
+  longtitude: 37.6631
+  name: Avtozavodskaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '2'
+    name: Avtozavodskaya
+- connects:
+  - Avtozavodskaya
+  - Verkhniye Kotly
+  latitude: 55.6983
+  line: '14'
+  longtitude: 37.6483
+  name: ZIL
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - ZIL
+  - Krymskaya
+  latitude: 55.69
+  line: '14'
+  longtitude: 37.6189
+  name: Verkhniye Kotly
+  opened: '2016-09-10'
+  transfers:
+  - line: '9'
+    name: Nagatinskaya
+- connects:
+  - Verkhniye Kotly
+  - Ploshchad Gagarina
+  latitude: 55.69
+  line: '14'
+  longtitude: 37.605
+  name: Krymskaya
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Krymskaya
+  - Luzhniki
+  latitude: 55.7069
+  line: '14'
+  longtitude: 37.5858
+  name: Ploshchad Gagarina
+  opened: '2016-09-10'
+  transfers:
+  - line: '6'
+    name: Leninsky Prospekt
+- connects:
+  - Ploshchad Gagarina
+  - Kutuzovskaya
+  latitude: 55.7203
+  line: '14'
+  longtitude: 37.5631
+  name: Luzhniki
+  opened: '2016-09-10'
+  transfers:
+  - line: '1'
+    name: Sportivnaya
+- connects:
+  - Luzhniki
+  - Delovoy Tsentr
+  latitude: 55.7408
+  line: '14'
+  longtitude: 37.5333
+  name: Kutuzovskaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '4'
+    name: Kutuzovskaya
+- connects:
+  - Kutuzovskaya
+  - Shelepikha
+  latitude: 55.7472
+  line: '14'
+  longtitude: 37.5322
+  name: Delovoy Tsentr
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Delovoy Tsentr
+  - Khoroshyovo
+  latitude: 55.7575
+  line: '14'
+  longtitude: 37.5256
+  name: Shelepikha
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Shelepikha
+  - Zorge
+  latitude: 55.7772
+  line: '14'
+  longtitude: 37.5072
+  name: Khoroshyovo
+  opened: '2016-09-10'
+  transfers:
+  - line: '7'
+    name: Polezhayevskaya
+  - line: '11'
+    name: Khoroshyovskaya
+- connects:
+  - Khoroshyovo
+  - Panfilovskaya
+  latitude: 55.7878
+  line: '14'
+  longtitude: 37.5045
+  name: Zorge
+  opened: '2016-11-04'
+  transfers:
+  - line: '7'
+    name: Oktyabrskoye Pole
+- connects:
+  - Zorge
+  - Streshnevo
+  latitude: 55.7991
+  line: '14'
+  longtitude: 37.4988
+  name: Panfilovskaya
+  opened: '2016-11-08'
+  transfers:
+  - line: '7'
+    name: Oktyabrskoye Pole
+- connects:
+  - Panfilovskaya
+  - Baltiyskaya
+  latitude: 55.8136
+  line: '14'
+  longtitude: 37.4869
+  name: Streshnevo
+  opened: '2016-09-10'
+  transfers:
+  - line: '2'
+    name: Voykovskaya
+- connects:
+  - Streshnevo
+  - Koptevo
+  latitude: 55.8258
+  line: '14'
+  longtitude: 37.4961
+  name: Baltiyskaya
+  opened: '2016-09-10'
+  transfers:
+  - line: '2'
+    name: Voykovskaya
+- connects:
+  - Baltiyskaya
+  - Likhobory
+  latitude: 55.8397
+  line: '14'
+  longtitude: 37.5203
+  name: Koptevo
+  opened: '2016-11-01'
+  transfers: []
+- connects:
+  - Koptevo
+  latitude: 55.8472
+  line: '14'
+  longtitude: 37.5513
+  name: Likhobory
+  opened: '2016-09-10'
+  transfers: []
+- connects:
+  - Lefortovo
+  latitude: 55.780292
+  line: '15'
+  longtitude: 37.703013
+  name: Elektrozavodskaya
+  opened: '2020-12-31'
+  transfers:
+  - line: '3'
+    name: Elektrozavodskaya
+- connects:
+  - Elektrozavodskaya
+  - Aviamotornaya
+  latitude: 55.764738
+  line: '15'
+  longtitude: 37.706747
+  name: Lefortovo
+  opened: '2020-03-27'
+  transfers: []
+- connects:
+  - Lefortovo
+  - Nizhegorodskaya
+  latitude: 55.75367
+  line: '15'
+  longtitude: 37.719149
+  name: Aviamotornaya
+  opened: '2020-03-27'
+  transfers:
+  - line: '8'
+    name: Aviamotornaya
+- connects:
+  - Aviamotornaya
+  - Stakhanovskaya
+  latitude: 55.731748
+  line: '15'
+  longtitude: 37.730076
+  name: Nizhegorodskaya
+  opened: '2020-03-27'
+  transfers:
+  - line: '14'
+    name: Nizhegorodskaya
+- connects:
+  - Nizhegorodskaya
+  - Okskaya
+  latitude: 55.725
+  line: '15'
+  longtitude: 37.7619
+  name: Stakhanovskaya
+  opened: '2020-03-27'
+  transfers: []
+- connects:
+  - Stakhanovskaya
+  - Yugo-Vostochnaya
+  latitude: 55.7186
+  line: '15'
+  longtitude: 37.7817
+  name: Okskaya
+  opened: '2020-03-27'
+  transfers: []
+- connects:
+  - Okskaya
+  - Kosino
+  latitude: 55.70497
+  line: '15'
+  longtitude: 37.81901
+  name: Yugo-Vostochnaya
+  opened: '2020-03-27'
+  transfers: []
+- connects:
+  - Yugo-Vostochnaya
+  - Ulitsa Dmitriyevskogo
+  latitude: 55.7033
+  line: '15'
+  longtitude: 37.8511
+  name: Kosino
+  opened: '2019-06-03'
+  transfers:
+  - line: '7'
+    name: Lermontovsky Prospekt
+- connects:
+  - Kosino
+  - Lukhmanovskaya
+  latitude: 55.71
+  line: '15'
+  longtitude: 37.8792
+  name: Ulitsa Dmitriyevskogo
+  opened: '2019-06-03'
+  transfers: []
+- connects:
+  - Ulitsa Dmitriyevskogo
+  - Nekrasovka
+  latitude: 55.7085
+  line: '15'
+  longtitude: 37.9004
+  name: Lukhmanovskaya
+  opened: '2019-06-03'
+  transfers: []
+- connects:
+  - Lukhmanovskaya
+  latitude: 55.7036
+  line: '15'
+  longtitude: 37.9264
+  name: Nekrasovka
+  opened: '2019-06-03'
+  transfers: []
